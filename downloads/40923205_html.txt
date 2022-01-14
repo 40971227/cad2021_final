@@ -144,3 +144,87 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<h3>40923205</h3>
+<h5><strong><span style="background-color: #ffff99;">第一階段繪圖、組裝與模擬</span></strong></h5>
+<p>GDrive： <a href="https://drive.google.com/file/d/1iyCtqMJWmjcmHGw39l4a1UYRDcfY93mg/view?usp=sharing">https://drive.google.com/file/d/1iyCtqMJWmjcmHGw39l4a1UYRDcfY93mg/view?usp=sharing</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/1cXCPXzCV9A"></iframe></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="806" height="454" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923205.github.io/cad2021_hw/downloads/test2-1sw.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>--------------------------------------------------------------------</p>
+<h5><strong><span style="background-color: #ffff99;">第二階段</span></strong><strong><span style="background-color: #ffff99;">繪圖、組裝與模擬</span></strong></h5>
+<p>GDrive： <a href="https://drive.google.com/file/d/1GAf6ZaQFyofUaIg-YiaumWUM9tybxj13/view?usp=sharing">https://drive.google.com/file/d/1GAf6ZaQFyofUaIg-YiaumWUM9tybxj13/view?usp=sharing</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/wAFYGoNxrUQ"></iframe></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="806" height="454" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923205.github.io/cad2021_hw/downloads/test2-2sw.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>--------------------------------------------------------------------</p>
+<h5><strong><span style="background-color: #ffff99;">第三階段</span></strong><strong><span style="background-color: #ffff99;">繪圖、組裝與模擬</span></strong></h5>
+<p>GDrive： <a href="https://drive.google.com/file/d/10vYPqgLJNNloDUnqma3RGQR8pg98Hty-/view?usp=sharing">https://drive.google.com/file/d/10vYPqgLJNNloDUnqma3RGQR8pg98Hty-/view?usp=sharing</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6sgORoD8Xug"></iframe></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="806" height="454" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923205.github.io/cad2021_hw/downloads/test2-3copp.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>--------------------------------------------------------------------</p>
+<p><strong><span style="background-color: #ffff99;">心得:</span></strong></p>
+<p>1.第一階段:在之前第一次功課就已將圖檔畫完了，很慶幸能夠快速地使用以前的圖檔來組裝這次的meArm作業。</p>
+<p>2.第二階段:再組裝對稱相反邊的過程，有時候都組到眼睛花掉，甚至自己畫的圖面尺寸有誤差及重複組錯零件等導致組和圖無法作動時，非常的傷腦筋，當然也找到相對應的解決方法，很有成就感。</p>
+<p>3.第三階段:第三階段的CoppeliaSim作動對於我來說有困難，雖然基本的Joint及Dummy大致上順序位置如何擺放，但遇到這次的meArm作動，還是覺得自己有待加強該軟體的操作方法。</p>
+<p>經過這次的期末考試，也嘗試使用了自己不熟悉的套件SolidWork來繪圖及組裝零件，對我來講確實是有一點困難，也花了更多時間來研究這套軟體的使用，不過是有收穫的!至於CoppeliaSim這套軟體，我需要更加強的使用，對該套軟體還不是太熟悉，但是是一套非常好用的模擬套件軟體!</p>
