@@ -144,7 +144,7 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<h3>40923205</h3>
+<p>期末考試</p>
 <h5><strong><span style="background-color: #ffff99;">第一階段繪圖、組裝與模擬</span></strong></h5>
 <p>GDrive： <a href="https://drive.google.com/file/d/1iyCtqMJWmjcmHGw39l4a1UYRDcfY93mg/view?usp=sharing">https://drive.google.com/file/d/1iyCtqMJWmjcmHGw39l4a1UYRDcfY93mg/view?usp=sharing</a></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/1cXCPXzCV9A"></iframe></p>
