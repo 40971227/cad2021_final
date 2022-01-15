@@ -3,6 +3,8 @@
 <p>但onshape跟solvespace的組合零件的功能還不是很清楚怎麼操作</p>
 <p>onshape零件檔案:<a href="https://cad.onshape.com/documents/379919a54f9611168181a770/w/e6c1027ba2c1db1a18b8219f/e/dafce372af4b32d593f941fa?renderMode=0&amp;uiState=61dba1bdf046c96049685802">連結</a></p>
 <p><img alt="" height="360" src="https://40923151.github.io/cad2021_hw/images/chrome_Nor1gyezIM.png" width="640"></p>
+<p>2021_01_12 : 在用onshape組立時尺吋必須非常的精準，否則它在運算時就會碰到無法解出的問題</p>
+<p><img alt="" height="360" src="https://40923151.github.io/cad2021_hw/images/onshape.png" width="640"></p>
 <p>-------------------------------------------------------------</p>
 <p>學到了一個好用的新工具wink，能夠方便呈現多張圖像的步驟過程</p>
 <p>(wink下載)</p>
@@ -203,4 +205,51 @@ var winkVideoData3 = {
 <p>期末考試</p>
 <p>目前用onshape組裝mearm還組不太出來，還卡在不清楚他計算組合方程式的運算規則</p>
 <p>onshape檔案:<a href="https://cad.onshape.com/documents/379919a54f9611168181a770/w/e6c1027ba2c1db1a18b8219f/e/dafce372af4b32d593f941fa?renderMode=0&amp;uiState=61dbc47f64ff677dc4aea987">連結</a></p>
-<p>coppeliasim檔案:<a href="https://drive.google.com/file/d/184H_BpXXvUyZFgSOUWPhRcWcU9PT7M0P/view?usp=sharing">連結</a></p>
+<p>coppeliasim檔案:<a href="https://drive.google.com/file/d/1lMJzIMm-ei-9EVe_Ljhf2zIzyfjF1BKS/view?usp=sharing">連結</a></p>
+<script>// <![CDATA[
+var winkVideoData11 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {   "2": [
+      { type: "gotoframe", rect: { x: 706, y: 510, width: 60, height: 24 }, target: 3 },
+    ],
+    "9": [
+      { type: "gotoframe", rect: { x: 729, y: 546, width: 60, height: 24 }, target: 10 },
+      { type: "gotoframe", rect: { x: 631, y: 546, width: 60, height: 24 }, target: 2 },
+    ],
+    "22": [
+      { type: "gotoframe", rect: { x: 729, y: 546, width: 60, height: 24 }, target: 23 },
+      { type: "gotoframe", rect: { x: 631, y: 546, width: 60, height: 24 }, target: 9 },
+    ],
+    "37": [
+      { type: "gotoframe", rect: { x: 729, y: 546, width: 60, height: 24 }, target: 38 },
+      { type: "gotoframe", rect: { x: 631, y: 546, width: 60, height: 24 }, target: 22 },
+    ],
+    "52": [
+      { type: "gotoframe", rect: { x: 729, y: 546, width: 60, height: 24 }, target: 53 },
+      { type: "gotoframe", rect: { x: 631, y: 546, width: 60, height: 24 }, target: 37 },
+    ],
+    "66": [
+      { type: "gotoframe", rect: { x: 729, y: 546, width: 60, height: 24 }, target: 67 },
+      { type: "gotoframe", rect: { x: 631, y: 546, width: 60, height: 24 }, target: 52 },
+    ],
+    "82": [
+      { type: "gotoframe", rect: { x: 678, y: 546, width: 60, height: 24 }, target: 66 },
+    ],
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="900" height="600" autoplay="autoplay" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData11" loop="loop" muted="" playsinline="">
+<source src="https://40923151.github.io/cad2021_hw/downloads/onshape_coppeliasim%20wink.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
