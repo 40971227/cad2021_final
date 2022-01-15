@@ -1,4 +1,6 @@
 <h3>40923116</h3>
+<p><span>這個學期我使用了兩套繪圖軟體，NX12跟SOLIDWORKS，兩個軟體都是大一的時候開始接觸</span><span>，所以大二拿來畫圖顯得更加熟悉，個人覺得NX畫圖比較沒那麼順手，可能是之前並不是主要拿它來畫圖的緣故吧，反之SW我覺得用起來比較上手，不過我覺得都沒關係，至少讓我對於兩個軟體都更加熟悉了；這學期還有學到一個新的軟體，那就是wink，可以用它來做一個記錄的動作，我覺得這軟體還不錯，算是也有學會它，我覺得還不錯；最後好像還有一個軟體，叫做coppeliasim，這部分我真的不太熟悉，跟他還是非常陌生。</span></p>
+<p></p>
 <p><span>SW2020 下載及介紹</span></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/gR-1Q5ZiFJY"></iframe></p>
 <p><span>SW零件轉出後轉入CoppeliaSim操作</span></p>

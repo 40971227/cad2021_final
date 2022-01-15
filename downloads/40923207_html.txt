@@ -204,3 +204,87 @@ var winkVideoData = {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <p><a href="https://40923207.github.io/cad2021_hw/content/40923207.html">期末考個人網頁</a></p>
+
+<h4>0113期末考試</h4>
+<p>第一階段:<a href="https://drive.google.com/file/d/1J3XPG5ctjLZsrZuh63Qa3PAqpdYETKYG/view?usp=sharing">40923207_final.zip</a></p>
+<p><span>第二階段:<a href="https://drive.google.com/file/d/15-8Z2BgtFP8UtjrM9GCbG2jz5QyxKoqM/view?usp=sharing">40923207_final_stage2.zip</a></span></p>
+<p><img caption="false" height="526" src="https://40923207.github.io/cad2021_hw/images/%E5%8F%8D%E5%90%91%E7%B5%84%E5%90%88.png" width="586"></p>
+<p><span>第三階段: <a href="https://drive.google.com/file/d/1BUi6szTMxCh-f2ZdSUfp9C_pfPT6MIER/view?usp=sharing">40923207_final_ttt.zip</a></span></p>
+<p><span>反裝meArmUPV Robot組裝(youtube)</span></p>
+<p><iframe width="1095" height="616" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/KIBBYlDJIBY" title="YouTube video player"></iframe></p>
+<p><span>反裝meArmUPV Robot組裝(wink)</span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1044" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923207.github.io/cad2021_hw/downloads/%E5%8F%8D%E8%A3%9DmeArmUPV%20Robot%E7%B5%84%E8%A3%9D.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><span>反裝meArmUPV Robot匯入coppliasim組合(youtube)</span></p>
+<p><iframe width="1095" height="616" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qtRrKgq8rVo" title="YouTube video player"></iframe></p>
+<p><span>反裝meArmUPV Robot匯入coppliasim組合(wink)</span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1044" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923207.github.io/cad2021_hw/downloads/%E5%8F%8D%E8%A3%9DmeArmUPV%20Robot%E5%8C%AF%E5%85%A5coppliasim%E7%B5%84%E5%90%88.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><span>反裝meArmUPV Robot匯入coppliasim作動(youtube)</span></p>
+<p><iframe width="1066" height="616" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/t1D4lewFYiY" title="YouTube video player"></iframe></p>
+<p><span>反裝meArmUPV Robot匯入coppliasim作動(wink)</span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1920" height="1044" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923207.github.io/cad2021_hw/downloads/%E5%8F%8D%E8%A3%9DmeArmUPV%20Robot%E5%8C%AF%E5%85%A5coppliasim%E4%BD%9C%E5%8B%95.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoControlBarClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><a href="https://40923207.github.io/cad2021_hw/content/%E6%9C%9F%E6%9C%AB%E8%80%83%E8%A9%A6.html">期末個人網頁</a></p>
