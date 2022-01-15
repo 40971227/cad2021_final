@@ -1,4 +1,43 @@
 <h3>40923226</h3>
+<p>W11(查驗)</p>
+<p>零件尺寸圖(auto CAD):</p>
+<p><a href="https://drive.google.com/drive/folders/1tTAwIHiRr_Y-cCoNJJCFGArpYdtIHxnq?usp=sharing">https://drive.google.com/drive/folders/1tTAwIHiRr_Y-cCoNJJCFGArpYdtIHxnq?usp=sharing</a></p>
+<p>3D零件檔案(onshape):</p>
+<p><a href="https://drive.google.com/drive/folders/1UMRjqft1-kyaHtjBy0bJvjCNng9j8U2l?usp=sharing">https://drive.google.com/drive/folders/1UMRjqft1-kyaHtjBy0bJvjCNng9j8U2l?usp=sharing</a></p>
+<p></p>
+<p>影片:</p>
+<p><a href="https://www.youtube.com/watch?v=WcgBfZCOkEQ">https://www.youtube.com/watch?v=WcgBfZCOkEQ</a></p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/WcgBfZCOkEQ"></iframe></p>
+<p><a href="https://youtu.be/_J8cbSAUAD8">https://youtu.be/_J8cbSAUAD8</a>(轉動影片)</p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/_J8cbSAUAD8"></iframe></p>
+<p>(因為要看清楚有插銷，所以影片裡故意讓它突出一塊)</p>
+<p></p>
+<p><strong>coppeliasim wink</strong></p>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923226.github.io/cad2021_hw/downloads/1234.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>期末考</p>
 <p>心得:</p>
 <p>&nbsp; 這學期碰觸到了些新的繪圖程式，而我被分配到的是onshape還有inventor，簡單的繪圖就像下面影片所做，onshape的話可直接畫在同一個圖檔接下來直接在裡面組裝即可。inventor的話，需新創一個組合件，再把要用零件全部匯入即可組裝。</p>
 <p>&nbsp; 接下來思考各軸與各軸的運動關係，然後想辦法讓他做動，還有直線運動、旋轉運動等等，onshape我是用圓柱結合和平面結合所去組成，inventor則是用約束裡面的貼合和插入去組，過程非常困難，但是組起來可以說很有成就感。</p>
@@ -14,16 +53,69 @@
 <p>---------------</p>
 <script>// <![CDATA[
 var winkVideoData = {
-  dataVersion: 1,
-  frameRate: 20,
-  buttonFrameLength: 10,
-  buttonFrameOffset: 5,
-  frameStops: {
-  },
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
 <source src="https://40923226.github.io/cad2021_hw/downloads/123.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+</div>
+<p>期末考延伸題</p>
+<p>期末零件檔：<a href="https://drive.google.com/drive/folders/1JYKKdiOHVzTR8SJaAc1mNlDM9UagbAoz?usp=sharing">https://drive.google.com/drive/folders/1JYKKdiOHVzTR8SJaAc1mNlDM9UagbAoz?usp=sharing</a></p>
+<p>繪圖過程:</p>
+<p><a href="https://www.youtube.com/watch?v=gJJvBSnFo54">https://www.youtube.com/watch?v=gJJvBSnFo54</a></p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/gJJvBSnFo54"></iframe></p>
+<p>組裝影片:</p>
+<p><a href="https://youtu.be/DXMQdJ_SAWE">https://youtu.be/DXMQdJ_SAWE</a></p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/DXMQdJ_SAWE"></iframe></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923226.github.io/cad2021_hw/downloads/12345.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+</div>
+</div>
+<p>機械手臂</p>
+<p><br>機械手臂</p>
+<p><img caption="false" height="800" src="https://40923226.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B6%E5%9C%96.png" width="1505"></p>
+<p><br>機械手臂</p>
+<p>零件下載:</p>
+<p><a href="https://drive.google.com/drive/folders/1HLpiB1flmo3h740gpI9yFCBtsMQaglMv?usp=sharing">https://drive.google.com/drive/folders/1HLpiB1flmo3h740gpI9yFCBtsMQaglMv?usp=sharing</a></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923226.github.io/cad2021_hw/downloads/1.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -34,3 +126,44 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p>組裝過程:</p>
+<p><a href="https://youtu.be/1HYwdx2k0yM">https://youtu.be/1HYwdx2k0yM</a></p>
+<p><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/1HYwdx2k0yM"></iframe></p>
+<p><strong>第一階段</strong></p>
+<p><strong><a href="https://drive.google.com/drive/folders/1HLpiB1flmo3h740gpI9yFCBtsMQaglMv?usp=sharing">https://drive.google.com/drive/folders/1HLpiB1flmo3h740gpI9yFCBtsMQaglMv?usp=sharing</a></strong></p>
+<p><strong></strong></p>
+<p><strong><img caption="false" height="800" src="https://40923226.github.io/cad2021_hw/images/%E6%89%8B%E8%87%821.png" width="1505"></strong></p>
+<p>第二階段</p>
+<p><a href="https://drive.google.com/drive/folders/1HLpiB1flmo3h740gpI9yFCBtsMQaglMv?usp=sharing">https://drive.google.com/drive/folders/1HLpiB1flmo3h740gpI9yFCBtsMQaglMv?usp=sharing</a></p>
+<p><strong><img caption="false" height="800" src="https://40923226.github.io/cad2021_hw/images/%E6%89%8B%E8%87%822.png" width="1505"></strong></p>
+<p><strong>第三階段(coppeliasim wink)</strong></p>
+<p><a href="https://drive.google.com/drive/folders/1txUGUJHpkwrQxjLGqYPc6otDbKxBeoGz?usp=sharing">https://drive.google.com/drive/folders/1txUGUJHpkwrQxjLGqYPc6otDbKxBeoGz?usp=sharing</a></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923226.github.io/cad2021_hw/downloads/12.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass">
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass">
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得: 這次的課堂讓我學到非常多實用性的程式，最難的還是coppeliasim，從完全不會到慢慢熟悉，過程真得是非常煎熬，還有學習到如何運用wink錄影。這學期可說是受益良多，但要繼續溫故知新，否則知識是會離你而去的。</p>
