@@ -877,6 +877,10 @@ config_dir = repo_path + "/config/"
 
 因為靜態網頁帶有所有內容的下拉式功能表, 所以必須要全部分頁完畢後才能建立此一功能表.
 
-目前看不出該如何加快轉檔案的速度</t>
+目前看不出該如何加快轉檔案的速度
+
+參考:
+
+https://stackoverflow.com/questions/4961589/speed-up-writing-to-files</t>
 </tnodes>
 </leo_file>
