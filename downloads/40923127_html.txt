@@ -1,0 +1,15 @@
+<h3>W16</h3>
+<p></p>
+<p><img alt="" height="631" src="https://40923127-1.github.io/cad2021_hw/images/linkage-dimensioned.png" width="573"></p>
+<p>如圖在solidworks上繪製</p>
+<p>然後組合起來輸出成STL檔</p>
+<p>0</p>
+<p>0</p>
+<p><img alt="" height="658" src="https://40923127-1.github.io/cad2021_hw/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-01-16%20013555.png" width="867"></p>
+<p>然後在<span>coppeliasim&nbsp;設定轉軸等</span></p>
+<p><span></span></p>
+<p>coppeliasim 組立與操作影片</p>
+<h4><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/uhfTjtW0_YI"></iframe></h4>
+<h4>遇到的一些問題</h4>
+<p></p>
+<p>在遇到三根桿連在一起的時候，軸的設定比較麻煩，一不小心就會互卡，還有原圖棕色的那根桿是獨立在外的使用dummy來帶動</p>
