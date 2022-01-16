@@ -21,7 +21,7 @@
 <p><span></span></p>
 <p><span></span></p>
 <p><strong>期末考試</strong></p>
-<p><strong>期末考試組立<img alt="" height="1080" src="/images/40923236_final_stage.png" width="1920"></strong></p>
+<p><strong>期末考試組立<img alt="" height="314" src="https://40923236.github.io/cad2021_hw/images/40923236_final_stage.png" width="560"></strong></p>
 <p><strong></strong></p>
 <p><strong></strong></p>
 <p><strong></strong></p>
