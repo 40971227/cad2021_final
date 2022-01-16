@@ -59,3 +59,80 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p>期末考試</p>
+<p>第一階段:</p>
+<p><a href="https://drive.google.com/drive/folders/1NSBybtAYe4t5pJfktfweO21Refv011BY?usp=sharing">零件下載</a></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1314" height="650" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923204.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB3inventer%20wink.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-------------------------------------------------------------------------------------------------------------</p>
+<p>第二階段:</p>
+<p><a href="https://drive.google.com/drive/folders/19QZCKB-3Qav4Vjw0c9lu4TcbWfTHiyJy?usp=sharing">零件下載</a></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1314" height="650" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923204.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB2inventer%20wink.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-------------------------------------------------------------------------------------------------------------</p>
+<p>第三階段:</p>
+<p><a href="https://drive.google.com/drive/folders/13KW2d-P-Nf5yRByfDAfQDfahxnpYtNEA?usp=sharing">零件下載</a></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1314" height="650" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923204.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%ABstage2%20coppelia%20wink.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
