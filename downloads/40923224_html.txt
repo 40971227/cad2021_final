@@ -1,4 +1,111 @@
 <h3>40923224</h3>
+<p>W11 4連桿</p>
+<p><span>3D 零件檔案(NX12.0):<a href="https://drive.google.com/drive/folders/1qjTEYdUNYorBgPmlrufd3teCm8Eieqf2?usp=sharing">https://drive.google.com/drive/folders/1qjTEYdUNYorBgPmlrufd3teCm8Eieqf2?usp=sharing</a></span></p>
+<p></p>
+<p><span></span>繪圖過程</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/W11NX.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><strong>W11 4連桿運動場景 (wink)</strong></p>
+<div class="winkVideoControlBarClass"></div>
+<div class="winkVideoControlBarClass"></div>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/W13motion.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"><strong>W13-1</strong></div>
+<p></p>
+<pre><code>請建立一個 Wink 檔案說明截至目前所完成的兩套 CAD 零組件繪圖進度 (30%).<br>
+</code></pre>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/cad_NX_slvs.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><strong>W13-2</strong></p>
+<pre><code>請建立一個 Wink 檔案, 將 1. 已經完成的 meArm 機械手臂第一軸, 加入 https://www.coppeliarobotics.com/helpFiles/en/simUI-widgets.htm slider, 可以在執行時, 利用滑鼠拖動旋轉 360 度 (30%).</code></pre>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/W13.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><strong>Final-test</strong></p>
+<p><a href="https://drive.google.com/drive/folders/1K7GPDZDt9IpuJXq6kcIRdTk-IZBheIDt?usp=sharing">零件檔</a></p>
 <p></p>
 <p>製圖過程:</p>
 <p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/mRGywg6uuHI"></iframe></p>
@@ -28,12 +135,103 @@ frameStops: {
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
+<div class="winkVideoPlayOverlayClass"><em><strong>test-2</strong></em></div>
+</div>
+<p><a href="https://drive.google.com/drive/my-drive">零件檔</a></p>
+<p>組合過程:</p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/cWOPr2IENHs"></iframe></p>
+<p></p>
+<p>comppeliaSim運動過程:</p>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/test-2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p><strong>期末考試</strong></p>
+<p><span>第一階段:</span><span>meArm Robot 零件與組立檔案下載連結:</span></p>
+<p>零件檔、組合檔(zip):<a href="https://drive.google.com/file/d/1rbulwxOAQvDg0e3zbW7NuhAwOXP0Ackr/view?usp=sharing">https://drive.google.com/file/d/1rbulwxOAQvDg0e3zbW7NuhAwOXP0Ackr/view?usp=sharing</a></p>
+<p>NX繪圖轉STL:</p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/_oGnERRMDeU"></iframe></p>
+<p>組立過程:</p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/qm_9eoRyEqk"></iframe></p>
+<p>第二階段:<span>修改第一階段個人所完成的 meArm 組立檔案, 將兩側連桿機構互換, 亦即將帶有三角形連桿的機構與另一方機構互相對調.&nbsp;</span></p>
+<p>零件檔、組合檔(zip):<a href="https://drive.google.com/file/d/1pDTsT8YftxoTYW1hO9SR4Op9vSs3qx-O/view?usp=sharing">https://drive.google.com/file/d/1pDTsT8YftxoTYW1hO9SR4Op9vSs3qx-O/view?usp=sharing</a></p>
+<p>Wink(階段二組合件)</p>
 <p></p>
 <p></p>
-<p>心得感想:</p>
-<p>這次被分到NX與SolveSpace兩個都是我不熟悉的製圖程式，繪製NX草圖的時候常常鎖不到點，也不會使用組合，SolveSpace則是全英文，操作的方法與其他CAD大相逕庭沒看教學都不會用。</p>
-<p>coppeliaSim也是之前完全沒碰過的，裡面也全部都是英文，上網google教學都是外國人用英文在教，還好有找到之前學長上傳教學，有直線運動、旋轉運動之類的，還滿有幫助的。</p>
-<p>在學習的過程中，英文A班的我開啟coppeliaSim、solvespace都是全英文介面，一堆沒看過的單字，根本不會操作，常常在這一個時候放棄的念頭就湧上心頭，所以導致進度常常落後，或是根本沒有進度，再不改進畢業後就要去超商打工了。</p>
+<p></p>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/stage2.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>第三階段:將機構丟入CoppeliaSim</p>
+<p>ttt檔 :<a href="https://drive.google.com/file/d/1zndOLLXExu_Esly-nxUXcv021HmWu7rZ/view?usp=sharing">https://drive.google.com/file/d/1zndOLLXExu_Esly-nxUXcv021HmWu7rZ/view?usp=sharing</a></p>
+<p></p>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://s40923224.github.io/cad2021_hw/downloads/stage3.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
 <p></p>
