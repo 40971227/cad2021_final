@@ -1,4 +1,59 @@
 <h3>40923206</h3>
+<p>第一階段</p>
+<p><a href="https://drive.google.com/file/d/11zkoAH9QbLz30qcjPERhLsSzH0wq7sgP/view?usp=sharing">40923206_final</a></p>
+<p>-------------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/aaa.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p>第二階段</p>
+<p><a href="https://drive.google.com/file/d/1f5K1wz2UXkwQ_4k_O1IDSywK6tTrW8fC/view?usp=sharing">40923206_final_stage2</a></p>
+<p>---------------------------------------------------------------------------------------------------------------<img caption="false" height="520" src="https://40923206-1.github.io/cad2021_hw/images/09.PNG" width="1000"></p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p>第三階段</p>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="https://40923206-1.github.io/cad2021_hw/downloads/40923206_final.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p>Final Project</p>
 <p><a href="https://solvespace.com/linkage.pl">期末題目連結</a></p>
 <p>期末零件題目繪製</p>
 <p>---------------------------------------------------------------------------------------------------------------</p>
@@ -53,6 +108,11 @@ var winkVideoData = {
 <p>期末零件組裝放入coppeliaSim並轉動</p>
 <p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/LAdkN6RbD-k"></iframe></p>
 <p>---------------------------------------------------------------------------------------------------------------------------------</p>
+<p><span>期末延伸零件題目繪製</span></p>
+<p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/PVYKFuREG5o"></iframe></p>
+<p>---------------------------------------------------------------------------------------------------------------------------------</p>
+<p><span>期末延伸零件題目組裝</span></p>
+<p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/k61QMJnh6S0"></iframe></p>
 <p>學習心得:</p>
 <p>一.新學習到的錄製軟體Wink</p>
 <p>Wink安裝</p>
