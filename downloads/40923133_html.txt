@@ -7,3 +7,40 @@
 <p><img alt="" height="435" src="/images/main-win.png" width="724"></p>
 <p>coppeliaSim</p>
 <p><img alt="" height="457" src="/images/擷取2.PNG" width="843"></p>
+<p><strong>階段1</strong>&nbsp;<a href="https://drive.google.com/file/d/1lrOoVGpRkYctJEEEx-l_19BAS3H3gsjO/view?usp=sharing">40923133_final</a><img alt="" height="856" src="/images/asseemble1.PNG" width="965"></p>
+<p><strong>階段2</strong>&nbsp;<a href="https://drive.google.com/file/d/1EdQpPim4EIAaGmcYwnc4-_mwcpbKibTO/view?usp=sharing">40923133_final_stage2</a></p>
+<p><img alt="" height="706" src="/images/assemble2.PNG" width="930"></p>
+<p><strong>階段3</strong>&nbsp;<a href="https://drive.google.com/file/d/1t6z8r_NsEAEgNnTNarD2Tvf3HWlLVv0U/view?usp=sharing">4092313_final_ttt</a></p>
+<p><img alt="" height="613" src="/images/assemble2_ttt.PNG" width="746"></p>
+<p>wink</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 581, y: 205, width: 47, height: 19 }, target: 3 },
+    ],
+    "33": [
+      { type: "gotoframe", rect: { x: 1166, y: 302, width: 47, height: 19 }, target: 34 },
+    ],
+    "59": [
+      { type: "gotoframe", rect: { x: 675, y: 353, width: 47, height: 19 }, target: 60 },
+    ],
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1522" height="818" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="/downloads/40923133_fianl.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
