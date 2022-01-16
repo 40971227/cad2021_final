@@ -1,4 +1,353 @@
 <h3>40923240</h3>
+<p>About</p>
+<p><em>You can call me "K",&nbsp;<span>I major in Mechanical Design Engineering at NFU.&nbsp;</span>Welcome to my website.</em></p>
+<hr>
+<p><em>Student Number:40923240</em></p>
+<p>網站倉儲: <a href="https://github.com/40923240/cad2021_hw">https://github.com/40923240/cad2021_hw</a></p>
+<p>網站連結: <a href="https://40923240.github.io/cad2021_hw" rel="nofollow">https://40923240.github.io/cad2021_hw</a></p>
+<p>Task</p>
+<p>Hwpages</p>
+<p>https://github.com/mdecourse/cad2021/discussions/11</p>
+<pre class="brush:py;auto-links:false;toolbar:false;highlight:0" contenteditable="false">#2B每人個人網站
+data = open('D:/abb52/Desktop/2bcad.txt').readlines()
+data = data[1:]
+for i in range(len(data)):
+    num_github = data[i]
+    num = num_github.split("\t")[0]
+    account = num_github.split("\t")[1].strip()
+    if account == "":
+        account = num
+#print(num, account)
+    print("&lt;a href='https://" + str(account) + ".github.io/cad2021_hw'&gt;"+ str(num) + "&lt;/a&gt;")</pre>
+<p><span mce-data-marked="1" style="background-color: #ff6600;">2B cad2021_hw links list</span></p>
+<div>
+<div><hr><span mce-data-marked="1" style="text-decoration: underline;"></span></div>
+</div>
+<p><a href="https://40723126.github.io/cad2021_hw">40723126</a> <a href="https://40723135.github.io/cad2021_hw">40723135</a> <a href="https://40723217.github.io/cad2021_hw">40723217</a> <a href="https://40732331.github.io/cad2021_hw">40732331</a> <a href="https://40823114.github.io/cad2021_hw">40823114</a> <a href="https://40823115.github.io/cad2021_hw">40823115</a> <a href="https://pyc40823117.github.io/cad2021_hw">40823117</a> <a href="https://40823119.github.io/cad2021_hw">40823119</a> <a href="https://40823122.github.io/cad2021_hw">40823122</a> <a href="https://40823127.github.io/cad2021_hw">40823127</a> <a href="https://40823146.github.io/cad2021_hw">40823146</a> <a href="https://40823148.github.io/cad2021_hw">40823148</a> <a href="https://40823215.github.io/cad2021_hw">40823215</a> <a href="https://40871106.github.io/cad2021_hw">40871106</a> <a href="https://40923201.github.io/cad2021_hw">40923201</a> <a href="https://youshin40923203.github.io/cad2021_hw">40923203</a> <a href="https://40923204.github.io/cad2021_hw">40923204</a> <a href="https://40923205.github.io/cad2021_hw">40923205</a> <a href="https://40923206-1.github.io/cad2021_hw">40923206</a> <a href="https://40923207.github.io/cad2021_hw">40923207</a> <a href="https://nfu40923208.github.io/cad2021_hw">40923208</a> <a href="https://nfu40923209.github.io/cad2021_hw">40923209</a> <a href="https://40923210.github.io/cad2021_hw">40923210</a> <a href="https://a40923211.github.io/cad2021_hw">40923211</a> <a href="https://40923212.github.io/cad2021_hw">40923212</a> <a href="https://40923213.github.io/cad2021_hw">40923213</a> <a href="https://40923214.github.io/cad2021_hw">40923214</a> <a href="https://40923216.github.io/cad2021_hw">40923216</a> <a href="https://40923217.github.io/cad2021_hw">40923217</a> <a href="https://40923218.github.io/cad2021_hw">40923218</a> <a href="https://nfu40923219.github.io/cad2021_hw">40923219</a> <a href="https://40923220.github.io/cad2021_hw">40923220</a> <a href="https://40923221.github.io/cad2021_hw">40923221</a> <a href="https://40923223.github.io/cad2021_hw">40923223</a> <a href="https://s40923224.github.io/cad2021_hw">40923224</a> <a href="https://40923225.github.io/cad2021_hw">40923225</a> <a href="https://40923226.github.io/cad2021_hw">40923226</a> <a href="https://40923227.github.io/cad2021_hw">40923227</a> <a href="https://40923228.github.io/cad2021_hw">40923228</a> <a href="https://40923229.github.io/cad2021_hw">40923229</a> <a href="https://40923230.github.io/cad2021_hw">40923230</a> <a href="https://40923231.github.io/cad2021_hw">40923231</a> <a href="https://40923232.github.io/cad2021_hw">40923232</a> <a href="https://40923233.github.io/cad2021_hw">40923233</a> <a href="https://40923234.github.io/cad2021_hw">40923234</a> <a href="https://40923235.github.io/cad2021_hw">40923235</a> <a href="https://40923236.github.io/cad2021_hw">40923236</a> <a href="https://40923237.github.io/cad2021_hw">40923237</a> <a href="https://40923238.github.io/cad2021_hw">40923238</a> <a href="https://40923239.github.io/cad2021_hw">40923239</a> <a href="https://40923240.github.io/cad2021_hw">40923240</a> <a href="https://40923241.github.io/cad2021_hw">40923241</a> <a href="https://40923242.github.io/cad2021_hw">40923242</a> <a href="https://40923243.github.io/cad2021_hw">40923243</a> <a href="https://40923244.github.io/cad2021_hw">40923244</a> <a href="https://40923245-1.github.io/cad2021_hw">40923245</a> <a href="https://40923246.github.io/cad2021_hw">40923246</a> <a href="https://40923247.github.io/cad2021_hw">40923247</a> <a href="https://40923248.github.io/cad2021_hw">40923248</a> <a href="https://40923249-1.github.io/cad2021_hw">40923249</a> <a href="https://40923250.github.io/cad2021_hw">40923250</a> <a href="https://40923251.github.io/cad2021_hw">40923251</a> <a href="https://40923252.github.io/cad2021_hw">40923252</a> <a href="https://40923253.github.io/cad2021_hw">40923253</a> <a href="https://40971220.github.io/cad2021_hw">40971220</a> <a href="https://40971227.github.io/cad2021_hw">40971227</a></p>
+<p>Github Pages</p>
+<pre class="brush:py;auto-links:false;toolbar:false" contenteditable="false">#2B每人github網站
+data = open('D:/abb52/Desktop/2bcad.txt').readlines()
+data = data[1:]
+for i in range(len(data)):
+&nbsp;&nbsp;&nbsp;&nbsp;num_github = data[i]
+&nbsp;&nbsp;&nbsp;&nbsp;num = num_github.split("\t")[0]
+&nbsp;&nbsp;&nbsp;&nbsp;account = num_github.split("\t")[1].strip()
+&nbsp;&nbsp;&nbsp;&nbsp;if account == "":
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;account = num
+#print(num, account)
+&nbsp;&nbsp;&nbsp;&nbsp;print("&lt;a href='https://github.com" + str(account) + "/cad2021_hw'&gt;" +str(num) + "&lt;/a&gt;")</pre>
+<p><span mce-data-marked="1">&nbsp;<span mce-data-marked="1" style="background-color: #ff6600;">2B github links</span></span></p>
+<hr>
+<p><a href="https://github.com/40723126/cad2021_hw">40723126</a> <a href="https://github.com/40723135/cad2021_hw">40723135</a> <a href="https://github.com/40723217/cad2021_hw">40723217</a> <a href="https://github.com/40732331/cad2021_hw">40732331</a> <a href="https://github.com/40823114/cad2021_hw">40823114</a> <a href="https://github.com/40823115/cad2021_hw">40823115</a> <a href="https://github.com/pyc40823117/cad2021_hw">40823117</a> <a href="https://github.com/40823119/cad2021_hw">40823119</a> <a href="https://github.com/40823122/cad2021_hw">40823122</a> <a href="https://github.com/40823127/cad2021_hw">40823127</a> <a href="https://github.com/40823146/cad2021_hw">40823146</a> <a href="https://github.com/40823148/cad2021_hw">40823148</a> <a href="https://github.com/40823215/cad2021_hw">40823215</a> <a href="https://github.com/40871106/cad2021_hw">40871106</a> <a href="https://github.com/40923201/cad2021_hw">40923201</a> <a href="https://github.com/youshin40923203/cad2021_hw">40923203</a> <a href="https://github.com/40923204/cad2021_hw">40923204</a> <a href="https://github.com/40923205/cad2021_hw">40923205</a> <a href="https://github.com/40923206-1/cad2021_hw">40923206</a> <a href="https://github.com/40923207/cad2021_hw">40923207</a> <a href="https://github.com/nfu40923208/cad2021_hw">40923208</a> <a href="https://github.com/nfu40923209/cad2021_hw">40923209</a> <a href="https://github.com/40923210/cad2021_hw">40923210</a> <a href="https://github.com/a40923211/cad2021_hw">40923211</a> <a href="https://github.com/40923212/cad2021_hw">40923212</a> <a href="https://github.com/40923213/cad2021_hw">40923213</a> <a href="https://github.com/40923214/cad2021_hw">40923214</a> <a href="https://github.com/40923216/cad2021_hw">40923216</a> <a href="https://github.com/40923217/cad2021_hw">40923217</a> <a href="https://github.com/40923218/cad2021_hw">40923218</a> <a href="https://github.com/nfu40923219/cad2021_hw">40923219</a> <a href="https://github.com/40923220/cad2021_hw">40923220</a> <a href="https://github.com/40923221/cad2021_hw">40923221</a> <a href="https://github.com/40923223/cad2021_hw">40923223</a> <a href="https://github.com/s40923224/cad2021_hw">40923224</a> <a href="https://github.com/40923225/cad2021_hw">40923225</a> <a href="https://github.com/40923226/cad2021_hw">40923226</a> <a href="https://github.com/40923227/cad2021_hw">40923227</a> <a href="https://github.com/40923228/cad2021_hw">40923228</a> <a href="https://github.com/40923229/cad2021_hw">40923229</a> <a href="https://github.com/40923230/cad2021_hw">40923230</a> <a href="https://github.com/40923231/cad2021_hw">40923231</a> <a href="https://github.com/40923232/cad2021_hw">40923232</a> <a href="https://github.com/40923233/cad2021_hw">40923233</a> <a href="https://github.com/40923234/cad2021_hw">40923234</a> <a href="https://github.com/40923235/cad2021_hw">40923235</a> <a href="https://github.com/40923236/cad2021_hw">40923236</a> <a href="https://github.com/40923237/cad2021_hw">40923237</a> <a href="https://github.com/40923238/cad2021_hw">40923238</a> <a href="https://github.com/40923239/cad2021_hw">40923239</a> <a href="https://github.com/40923240/cad2021_hw">40923240</a> <a href="https://github.com/40923241/cad2021_hw">40923241</a> <a href="https://github.com/40923242/cad2021_hw">40923242</a> <a href="https://github.com/40923243/cad2021_hw">40923243</a> <a href="https://github.com/40923244/cad2021_hw">40923244</a> <a href="https://github.com/40923245-1/cad2021_hw">40923245</a> <a href="https://github.com/40923246/cad2021_hw">40923246</a> <a href="https://github.com/40923247/cad2021_hw">40923247</a> <a href="https://github.com/40923248/cad2021_hw">40923248</a> <a href="https://github.com/40923249-1/cad2021_hw">40923249</a> <a href="https://github.com/40923250/cad2021_hw">40923250</a> <a href="https://github.com/40923251/cad2021_hw">40923251</a> <a href="https://github.com/40923252/cad2021_hw">40923252</a> <a href="https://github.com/40923253/cad2021_hw">40923253</a> <a href="https://github.com/40971220/cad2021_hw">40971220</a> <a href="https://github.com/40971227/cad2021_hw">40971227</a></p>
+<p>Work Process</p>
+<p><a href="https://github.com/40923240/cad2021_hw/commits/main" title="https://github.com/40923240/cad2021_hw/commits/main"></a><span style="background-color: #ff6600;">9/27~10/1</span></p>
+<p>Created repositor and Token, download Inventor and Solvespace.</p>
+<hr>
+<p><span style="background-color: #ff6600;">10/6</span></p>
+<p>Increased Vedio Columns and Fatal List.</p>
+<hr>
+<p><span style="background-color: #ff6600;">10/13</span></p>
+<p>Ended the class challenge.</p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/11">https://github.com/mdecourse/cad2021/discussions/11</a></p>
+<hr>
+<p><span style="background-color: #ff6600;">10/14</span></p>
+<p><span style="background-color: #ff6600;"><span style="background-color: #ffffff;">Edited&nbsp;<span>little challenge code.</span></span><br></span></p>
+<hr>
+<p><span style="background-color: #ff6600;">10/21&nbsp;</span></p>
+<p><span class="d-none d-sm-inline">Re make RUN and Layout</span></p>
+<hr>
+<p><span class="d-none d-sm-inline" style="background-color: #ff6600;">10/24</span></p>
+<p><span class="d-none d-sm-inline">Update information of the CAD1 and CAD2 Software introduce.</span></p>
+<hr>
+<p><span class="d-none d-sm-inline" style="background-color: #ff6600;">11/2</span></p>
+<p>Recording SolveSpace download video and put on the webside.</p>
+<hr>
+<p><span style="background-color: #33cccc;">11/11</span></p>
+<p>fix video problem and upload Inventor and Solvespace operate videos.</p>
+<hr>
+<p><span style="background-color: #33cccc;">11/11</span></p>
+<p><span>upload&nbsp;</span>Inventor video.</p>
+<hr>
+<p><span style="background-color: #99cc00;">12/16</span></p>
+<p>upload four-bar mechanism W11.</p>
+<hr>
+<p><span style="background-color: #99cc00;">12/16</span></p>
+<p>upload Solvespace and Iventor work progress.</p>
+<hr>
+<p><span style="background-color: #99cc00;">12/16</span></p>
+<p>upload W13-2 Wink video.</p>
+<hr>
+<p><span style="background-color: #99cc00;">12/16</span></p>
+<p>upload W13-3 Wink video.</p>
+<hr>
+<p><span style="background-color: #808000;">12/23</span></p>
+<p><span style="text-decoration: underline;">updata website version 1.4.</span></p>
+<hr>
+<p><span style="background-color: #808000;">12/23</span></p>
+<p>upload Wink tutorial video.</p>
+<hr>
+<p><span style="background-color: #33cccc;">12/30</span></p>
+<p>tried to make final&nbsp;project file.</p>
+<hr>
+<p><span style="background-color: #ffcc00;">1/6</span></p>
+<p>final exam.1 version.1.</p>
+<hr>
+<p><span style="background-color: #ffcc00;">1/6</span></p>
+<p>final exam.1 version.2.</p>
+<hr>
+<p><span style="background-color: #ffcc00;">1/6</span></p>
+<p>push&nbsp;<span>final exam.1 version.2 again because failed.</span></p>
+<hr>
+<p><span style="background-color: #ffcc00;">1/6</span></p>
+<p>change Wink&nbsp;absolute url files.</p>
+<hr>
+<p><span style="background-color: #ffcc00;">1/6</span></p>
+<p>fix and push wink&nbsp;<span>absolute url files 3 times.</span></p>
+<p></p>
+<hr>
+<p><span style="background-color: #99cc00;">1/8</span></p>
+<p>complete final exam.1.</p>
+<hr>
+<p><span style="background-color: #99cc00;">1/8</span></p>
+<p>change final exam.1 all wink absolute url files.</p>
+<hr>
+<p><span style="background-color: #99cc00;">1/8</span></p>
+<p>upload final exam.1 last version.</p>
+<hr>
+<p><span style="background-color: #ff9900;">1/13</span></p>
+<p>updata web version.</p>
+<hr>
+<p><span style="background-color: #33cccc;">1/16</span></p>
+<p>upload 期末考試<span>第一階階和第三階段.</span></p>
+<hr>
+<p><span style="background-color: #33cccc;">1/16</span></p>
+<p>change 第一階階和第三階段Wink url.</p>
+<hr>
+<p><span style="background-color: #33cccc;">1/16</span></p>
+<p>Complate 期末考試.</p>
+<hr>
+<p><span style="background-color: #33cccc;">&nbsp;</span></p>
+<p>Github work process</p>
+<p><a href="https://github.com/40923240/cad2021_hw/commits/main">https://github.com/40923240/cad2021_hw/commits/main</a></p>
+<p>Tutorial video</p>
+<p>Creat cad2021_hw repositories and token</p>
+<p><iframe width="600" height="400" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/FuMDYymF2CQ"></iframe></p>
+<p>Tips</p>
+<p><img alt="" height="103" src="/images/圖片_2021-10-05_214823.png" width="817"></p>
+<h3>Fatal List</h3>
+<p><span mce-data-marked="1">在下列作業中已知</span></p>
+<p><span mce-data-marked="1">1.<span mce-data-marked="1" style="color: #3366ff;">啟動檔中所有的python395路徑,</span></span><span mce-data-marked="1"><span mce-data-marked="1" style="color: #3366ff;">原始設訂為python38,須將後面的數字38改為395</span>,否則將無法開啟start_ipv4.bat(其實一開始就無法開啟了,但可以從start_ipv6.bat變更start_ipv4.bat的啟動檔設定)</span></p>
+<p><span mce-data-marked="1"><img alt="" height="860" src="/images/螢幕擷取畫面 2021-10-05 215605.png" width="1772"></span></p>
+<p><span mce-data-marked="1">2.發現git指令無法使用,需修改start_ipv4.bat的啟動檔設定,<span mce-data-marked="1" style="color: #3366ff;">將\portablegit後添加_2.31.1</span>即可</span></p>
+<p><span mce-data-marked="1"><img alt="" height="33" src="/images/螢幕擷取畫面 2021-10-05 220252.png" width="312"></span></p>
+<p><span mce-data-marked="1">3.Token密鑰位置問題(黃紅標記處為個人Token密鑰,須放在此處),要注意密鑰後要加上@,然後要像是途中所示,<span mce-data-marked="1" style="color: #3366ff;">不能縮行、https://處不能有空格、@前不能有空格</span></span></p>
+<p><span mce-data-marked="1"><img alt="" height="343" src="/images/圖片_2021-10-05_224407.png" width="706"></span></p>
+<p><span mce-data-marked="1">4.<img alt="" height="103" src="/images/圖片_2021-10-05_214823.png" width="817"></span></p>
+<p>Wink</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/cxsqBbl2s_Q"></iframe></p>
+<p>EX:</p>
+<p>-----------------------------------------------------------------------------------</p>
+<p>&lt;script&gt;// &lt;![CDATA[<br>var winkVideoData = {<br>dataVersion: 1,<br>frameRate: 20,<br>buttonFrameLength: 10,<br>buttonFrameOffset: 5,<br>frameStops: {<br>},<br>};<br>// ]]&gt;&lt;/script&gt;<br>&lt;div class="winkVideoContainerClass"&gt;&lt;<span style="background-color: #339966;">video width="1280" height="720"</span> class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData"&gt;<br>&lt;source src="./../downloads/<span style="background-color: #00ccff;">321123</span>.mp4" type="video/mp4" /&gt;&lt;/video&gt;<br>&lt;div class="winkVideoOverlayClass"&gt;&lt;/div&gt;<br>&lt;div class="winkVideoControlBarClass"&gt;&lt;button class="winkVideoControlBarPlayButtonClass"&gt;&lt;/button&gt; &lt;button class="winkVideoControlBarPauseButtonClass"&gt;&lt;/button&gt;<br>&lt;div class="winkVideoControlBarProgressLeftClass"&gt;&lt;/div&gt;<br>&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;a href="https://www.youtube.com/watch?v=cxsqBbl2s_Q"&gt;https://www.youtube.com/watch?v=cxsqBbl2s_Q&lt;/a&gt;&lt;/div&gt;<br>&lt;div class="winkVideoControlBarProgressEmptyMiddleClass"&gt;&lt;iframe width="560" height="314" src="//www.youtube.com/embed/cxsqBbl2s_Q" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;&lt;/div&gt;<br>&lt;div class="winkVideoControlBarProgressRightClass"&gt;&lt;/div&gt;<br>&lt;div class="winkVideoControlBarProgressFilledMiddleClass"&gt;&lt;/div&gt;<br>&lt;div class="winkVideoControlBarProgressThumbClass"&gt;&lt;/div&gt;<br>&lt;/div&gt;<br>&lt;div class="winkVideoPlayOverlayClass"&gt;&lt;/div&gt;<br>&lt;/div&gt;</p>
+<p>-----------------------------------------------------------------------------------</p>
+<p><span>以上可直接複製</span></p>
+<p>!!!以下特殊反白的地方需要更改!!!</p>
+<p>1.<span style="background-color: #339966;">video width="1280" height="720"</span></p>
+<p>這部分我已經幫你改好，表示的意思是你輸出影片的大小(影片2:26)</p>
+<p>2.<span style="background-color: #00ccff;">321123</span></p>
+<p>這裡是檔名，照你Wink輸出影片的檔名打(<span>影片1:27</span>)</p>
+<p>HW1</p>
+<p>W13</p>
+<p>-----------------------------------------------------------------------------------</p>
+<p>1.目前零件進度</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1550" height="872" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/solvespace and inventor零件.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-----------------------------------------------------------------------------------</p>
+<p>2.第一軸模擬</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/111.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>----------------------------------------------------------------------------------</p>
+<p>3.二、三軸模擬:</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/321.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>CAD1:Inventor</p>
+<p>Inventor是由Jacob Sain於1999年開發，並於Window系統上運作，類型屬於Computer-Aided Design(電腦輔助設計)，其功能為藉由整合2D、3D之數據，</p>
+<p>產生出一個虛擬的產品，可讓使用者在正式生產前檢驗商品的外觀、功能、屬性，並具有與其他CAD軟體轉檔的能力。</p>
+<p>該軟體有以下之特色:</p>
+<p></p>
+<p><img alt="" height="659" src="/images/00.png" width="662"></p>
+<p><img alt="" height="305" src="/images/000.png" width="660"></p>
+<p><a href="https://www.oitc.com.tw/products-detail/Inventor_Professional_3D設計/3">資料來源:大塚資訊科技股份有限公司</a></p>
+<p></p>
+<p>操作過程</p>
+<p><span style="color: #99cc00;"><strong>操作影片</strong></span><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/LYD-qce9vh4"></iframe></p>
+<p>CAD2:SolveSpace</p>
+<p>SolveSpace是一套免費且開源的CAD軟體，作者是<span mce-data-marked="1" style="text-decoration: underline;">Jonathan Westhues與其他自願者</span>，於2008年開發，作業環境跨足Windows、Linux和MacOS。</p>
+<p></p>
+<p>其功能包括:</p>
+<p><span mce-data-marked="1" style="text-decoration: underline; color: #ff0000;">零件3D建模</span>-使用拉伸、旋轉、布爾運算進行繪圖。</p>
+<p><span mce-data-marked="1" style="text-decoration: underline;"><span mce-data-marked="1" style="color: #ff0000; text-decoration: underline;">零件2D建模</span></span>-可先繪出單一零件，轉檔為DXF、PDF或SVG格式</p>
+<p>，再輔以3D模型組配。</p>
+<p><span mce-data-marked="1" style="text-decoration: underline;"><span mce-data-marked="1" style="color: #ff0000; text-decoration: underline;">編輯CAM數據</span></span>-為水刀機或雷射切割機導出2D平面向量圖</p>
+<p>，或生成STEP或STL格式的檔案，或是導入第三方CAM程式裡。</p>
+<p><span mce-data-marked="1" style="text-decoration: underline;"><span mce-data-marked="1" style="color: #ff0000; text-decoration: underline;">用於機構設計</span></span>-使用拘束計算器模擬出平面空間及空間連桿組內的銷</p>
+<p>、球關節、滑動關節。</p>
+<p><span mce-data-marked="1" style="text-decoration: underline;"><span mce-data-marked="1" style="color: #ff0000; text-decoration: underline;">平面與實體幾何</span></span>-使用實時<span mce-data-marked="1">輪廓圖繪製，替換手動求解之三角函數解與</span></p>
+<p>電子試算表。</p>
+<p><span mce-data-marked="1"></span></p>
+<p><span mce-data-marked="1"></span></p>
+<p><br><br><span mce-data-marked="1">安裝配置</span></p>
+<p><span mce-data-marked="1" style="color: #99cc00;">Solvespace 安裝配置</span></p>
+<hr>
+<p><iframe width="900" height="700" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/QdeMhhNOXSI"></iframe></p>
+<p>操作流程</p>
+<p></p>
+<p><strong><span style="color: #99cc00;">操作影片</span></strong><iframe width="800" height="600" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/mcH4QqhLVTY"></iframe></p>
+<p>運動場景</p>
+<p>CAD1:</p>
+<p style="padding-left: 30px;">CAD1 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD1 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD1 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span mce-data-marked="1" style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 - SW2020 </span>零件轉入 CoppeliaSim 教學影片」且加上<span mce-data-marked="1" style="background-color: #ccffcc;">語音說明</span>與<span mce-data-marked="1" style="background-color: #ccffcc;">字幕.<br></span></p>
+<h4>CAD2:</h4>
+<p style="padding-left: 30px;">CAD2 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD2 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD2 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span mce-data-marked="1" style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 - SW2020 </span>零件轉入 CoppeliaSim 教學影片」且加上<span mce-data-marked="1" style="background-color: #ccffcc;">語音說明</span>與<span mce-data-marked="1" style="background-color: #ccffcc;">字幕.</span></p>
+<p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
+<p>期末考試</p>
+<p>第一階段</p>
+<p><a href="https://drive.google.com/drive/folders/1VsJMHsDChblTBV0k5y4A0OdNpOtDvMQO?usp=sharing">Download parts</a></p>
+<p>---------------------------------------------------------------------</p>
+<p>parts drawings and&nbsp;assembly drawing</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/0116.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------</p>
+<p>第二階段</p>
+<p><a href="https://drive.google.com/drive/folders/1-eL8HPhuQB8ompTKuFwJXx_LkgjNP_tw?usp=sharing">Download parts</a></p>
+<p>----------------------------------------------------------------------------</p>
+<p><span>assembly drawing</span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/0116stage2.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>第三階段</p>
+<p><a href="https://drive.google.com/drive/folders/1JU3_NyXOxlNRaqG1q6GLDrSz3kF_Dklz?usp=sharing">Download parts</a></p>
+<p>-------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/0113ttt.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-------------------------------------------------------------------------------</p>
 <p>Final project</p>
 <p></p>
 <p><span style="background-color: #ff9900;">Final exam1&nbsp;</span><span style="background-color: #ff9900;">parts download list</span></p>
@@ -114,57 +463,3 @@ frameStops: {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <p>----------------------------------------------------------------------------------</p>
-<p>期末考試</p>
-<p>第一階段</p>
-<p><a href="https://drive.google.com/drive/folders/1VsJMHsDChblTBV0k5y4A0OdNpOtDvMQO?usp=sharing">Download parts</a></p>
-<p>---------------------------------------------------------------------</p>
-<p>parts drawings and&nbsp;assembly drawing</p>
-<script>// <![CDATA[
-var winkVideoData = {
-dataVersion: 1,
-frameRate: 20,
-buttonFrameLength: 10,
-buttonFrameOffset: 5,
-frameStops: {
-},
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="https://40923240.github.io/cad2021_hw/downloads/0116.mp4" type="video/mp4" /></video>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<p>---------------------------------------------------------------------</p>
-<p>第二階段</p>
-<p>---------------------------------------------------------------------</p>
-<p>第三階段</p>
-<p><a href="https://drive.google.com/drive/folders/1JU3_NyXOxlNRaqG1q6GLDrSz3kF_Dklz?usp=sharing">Download parts</a></p>
-<p>-------------------------------------------------------------------------------</p>
-<script>// <![CDATA[
-var winkVideoData = {
-dataVersion: 1,
-frameRate: 20,
-buttonFrameLength: 10,
-buttonFrameOffset: 5,
-frameStops: {
-},
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="https://40923240.github.io/cad2021_hw/downloads/0113ttt.mp4" type="video/mp4" /></video>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
-<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
-<div class="winkVideoControlBarProgressThumbClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<p>-------------------------------------------------------------------------------</p>
