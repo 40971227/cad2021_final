@@ -58,3 +58,63 @@
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/hHu0Thq_n8A"></iframe></p>
 <p><a href="https://www.youtube.com/watch?v=xYe9Rw8tTT4">第二軸模擬影片</a></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xYe9Rw8tTT4"></iframe></p>
+<p>請自行決定保留上述或下列資料</p>
+<p>期末考</p>
+<p>1/6期末考試</p>
+<p><span>心得: 這學期學了CoppeliaSim 、wink、nx12、solvespace，雖然以前都沒學過，經過這學期的學習，CoppeliaSim是我認為最難但也學到最多的軟體，但請教會使用的同學後，才發現這軟體在模擬的功能上很棒，剪輯上使用了wink這套軟體，使用上容易，剪輯效果也不錯，以後在作業上會有更多的軟體去做選擇來使用。</span></p>
+<p><a href="https://drive.google.com/file/d/1HvcsE97bBBR-vpopWthZrxGwLJMjLAMR/view?usp=sharing">期末零件組合檔</a></p>
+<p><a href="https://www.youtube.com/watch?v=Xf439EnrCCc">期末零組件繪製&nbsp;</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Xf439EnrCCc"></iframe></p>
+<p><a href="https://www.youtube.com/watch?v=Uz-3zae2G5w">期末零組件搖動</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Uz-3zae2G5w"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Eq9Gkt03XbU"></iframe></p>
+<p>1/13 期末考試</p>
+<p>心得:我對<span>Solvespace這套軟體在零件組合上還是不太熟練，但在Coppeliasim的模擬上有比前幾次還熟悉，遇到不懂的地方也會上討論區尋求解答。</span></p>
+<p>第一階段:零件上次就畫過沒太大問題，發現上次畫錯部分有做修改。</p>
+<p>第二階段:零件對調組合花蠻多時間，看過討論區和同學討論自己勉強組出來。</p>
+<p>第三階段:模擬方面看到討論區的同學和我有一樣問題，看到解答後也得到解決。</p>
+<p><a href="https://drive.google.com/file/d/1pXbWpSSwpTdp41W0pXQkflZU9yUA2GGm/view?usp=sharing">meARM零件、組合圖檔</a></p>
+<p>meARM對調組合</p>
+<p><img alt="" height="268" src="/images/螢幕擷取畫面 2022-01-15 162237.jpg" width="450"></p>
+<p><img alt="" height="267" src="/images/螢幕擷取畫面 2022-01-15 162300.jpg" width="450"></p>
+<p><a href="https://drive.google.com/file/d/1GoMbyuVyoAuZBSZc3U8M2lqd5u3XIjlq/view?usp=sharing">meARM&nbsp;<span>CoppeliaSim模擬檔案</span></a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Q_LQFGLTQmI"></iframe></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p>學期心得</p>
+<p>一. NX12 &amp; solvespace</p>
+<p>&nbsp; &nbsp; 這學期抽到兩種不同的繪圖軟體一個是NX12，另一個則是<span>solvespace</span>，上學期接觸過NX所以使用上還算熟悉，<span>solvespace是全新完全沒接觸過的的軟體使用介面較為陌生，一開始花蠻長時間去摸索，後來解決轉檔匯入的問題後，使用上沒太大問題。</span></p>
+<p><img alt="" height="207" src="/images/images.jpg" width="244"></p>
+<p>NX&nbsp;包含強大的2D 設計、配置、製圖、註解與文件製作功能。 透過專為2D 與2D/3D 混合式工作流程最佳化的高生產力工具，您可以最高效率建立2D 配置與工程圖面。 內建的製圖標準確保您的圖面符合各國與國際間的製圖標準。 有了NX，您可以在CAD 模型中完整記錄含3D 註解的設計內容。</p>
+<p><a href="https://www.youtube.com/watch?v=zdiU-a_9feI">NX安裝配置影片</a></p>
+<p><a href="https://www.youtube.com/watch?v=jFGPy9QDJ2o">NX操作流程影片</a></p>
+<p></p>
+<p>Solvespace&nbsp;繪圖</p>
+<p><img alt="Install SolveSpace on Linux | Snap Store" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/01/solvespace-256.png"></p>
+<p>SOLVESPACE&nbsp;是一個免費的 (GPLv3) 參數化 3d CAD 工具。應用包括：</p>
+<div class="list">
+<ul>
+<li>建模 3d 零件&mdash; 使用拉伸、旋轉、螺旋線和布爾（並/差/交）操作進行繪製</li>
+<li>二維零件建模&mdash; 將零件繪製為單個部分，並導出 DXF、PDF、SVG；使用 3d 裝配來驗證適合</li>
+<li>3d 打印部件&mdash; 導出大多數 3d 打印機所需的 STL 或其他三角形網格</li>
+<li>準備 CAM 數據&mdash; 為水刀機或激光切割機導出二維矢量圖；或生成STEP或STL，導入第三方CAM軟件進行加工</li>
+<li>機構設計&mdash; 使用約束求解器模擬平面或空間鏈接，包括銷、球或滑動關節</li>
+<li>平面和實體幾何&mdash; 用實時尺寸繪圖替換手工求解的三角函數和電子表格</li>
+</ul>
+<p><span><span>官方網站:<a href="https://solvespace.com/index.pl">https://solvespace.com/index.pl</a></span></span></p>
+</div>
+<p><a href="https://www.youtube.com/watch?v=F3kjpG8hmfk">solvespace下載教學影片</a></p>
+<p><a href="https://www.youtube.com/watch?v=5WCdv3iBGKo">solvepace 操作流程影片</a></p>
+<p>二. wink&nbsp;</p>
+<p>&nbsp; &nbsp; 大二以前只學過obs和windows內建錄影，這學期學了wink後，了解他是一幀<span>一</span><span>幀</span>的方式去錄影，以後在錄製影片時候多了一種選擇。</p>
+<p>三. Four-bar mechanism</p>
+<p>&nbsp; &nbsp; 第一次接數連桿機構，<span>從繪製到組裝到轉stl檔再匯入CoppeliaSim，雖然過程很麻煩但是我也學到了更多技巧</span><span>，也學到了如何操作。</span></p>
+<p><a href="/get_page/Final%20Project/零件轉出後轉入 CoppeliaSim 操作影片">零件轉出後轉入 CoppeliaSim 操作影片</a></p>
+<p>四. meARM 模擬</p>
+<p><a href="https://www.youtube.com/watch?v=hHu0Thq_n8A">第一軸模擬影片</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/hHu0Thq_n8A"></iframe></p>
+<p><a href="https://www.youtube.com/watch?v=xYe9Rw8tTT4">第二軸模擬影片</a></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xYe9Rw8tTT4"></iframe></p>
