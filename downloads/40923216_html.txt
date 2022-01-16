@@ -1,4 +1,5 @@
 <h3>40923216</h3>
+<p><span style="color: #ff6600;"><strong>本學期心得</strong></span></p>
 <p>(一)Install and use SolidWork&amp;ONS</p>
 <p><a href="https://youtu.be/yq9Wq5RftGE">Onshape下載安裝與配置</a></p>
 <p><a href="https://youtu.be/VpImNJl9G2A">Onshape操作流程</a></p>
@@ -8,7 +9,7 @@
 <p>(二)Install and use Wink</p>
 <p>大一的時侯只有用過Share X及電腦內建的錄影程式，這學期多學了一個Wink，因為它是片段錄影，所以之後錄影片能夠再多多一個選擇。</p>
 <p>(三)Four-bar mechanism</p>
-<p></p>
+<p>第一次接觸這種題目，從繪製到組裝到轉stl去CoppeliaSim，雖然過程很麻煩但是我也學到了更多技巧，也學到了如何操作。</p>
 <p>(四)Final Project</p>
 <p><a href="https://github.com/mdecourse/cad2021_final/discussions/105">期末考連結</a></p>
 <p>心得:</p>
@@ -19,3 +20,68 @@
 <p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/luQUGt5fWxQ"></iframe></p>
 <p>(三)<a href="https://youtu.be/g1KPqEo6GaY">CoppeliaSim 影片</a> 點選觀看影片</p>
 <p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/g1KPqEo6GaY"></iframe></p>
+<p>(五)第二題</p>
+<p>第二題繪畫過程</p>
+<p></p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/z9fyr_qFt7k"></iframe></p>
+<p>轉動過程</p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ryUN-AdtpPk"></iframe></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1138" height="712" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923216.github.io/cad2021_hw/downloads/2nd.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p><span style="color: #ff6600;"><strong>期末考試</strong></span></p>
+<p>第一階段 <span style="color: #ff0000;">零件圖</span>與<span style="color: #ff0000;">零件組裝</span></p>
+<p><span style="color: #ff0000;"><span style="color: #000000;">1.</span>零件檔與組合檔</span>點此<a href="https://drive.google.com/file/d/1rn4-RqVTzY-a4WUQInhqWs3CC_jn-qyQ/view?usp=sharing">https://drive.google.com/file/d/1rn4-RqVTzY-a4WUQInhqWs3CC_jn-qyQ/view?usp=sharing</a></p>
+<p>2.以下影片為組立影片</p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ok378jfNZQo"></iframe></p>
+<p>第二階段 機構<span style="color: #ff0000;">左右對調</span></p>
+<p><span style="color: #ff0000;"><span style="color: #000000;">1.</span><span style="color: #ff0000;">零件檔與組合檔</span></span>點此(包含第二階段組合檔)<span style="color: #ff0000;"><a href="https://drive.google.com/file/d/1JCXkkqisXXbg3M9ne7lg2N7L48MIdHJP/view?usp=sharing">https://drive.google.com/file/d/1JCXkkqisXXbg3M9ne7lg2N7L48MIdHJP/view?usp=sharing</a></span></p>
+<p>2.以下為左右對調的過程影片</p>
+<p><iframe width="400" height="300" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/R97e4IDK-pA"></iframe></p>
+<p>第三階段 將機構丟入<span style="color: #ff0000;">CoppeliaSim</span></p>
+<p>1.CoppeliaSim檔案點此<a href="https://drive.google.com/file/d/1HsC9ZCBuz5r-84n71QNl-hrR3SnVzmxr/view?usp=sharing">https://drive.google.com/file/d/1HsC9ZCBuz5r-84n71QNl-hrR3SnVzmxr/view?usp=sharing</a></p>
+<p>2.wink錄製轉動過程</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923216.github.io/cad2021_hw/downloads/CoppeliaSim.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
