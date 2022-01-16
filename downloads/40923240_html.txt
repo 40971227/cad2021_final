@@ -1,19 +1,11 @@
 <h3>40923240</h3>
-<p>Final Project</p>
-<p>Final exam.1</p>
+<p>Final project</p>
+<p></p>
+<p><span style="background-color: #ff9900;">Final exam1&nbsp;</span><span style="background-color: #ff9900;">parts download list</span></p>
+<p><a href="https://drive.google.com/drive/folders/17DFG8y59_2O0jnC3QAN7gFiyLvz_kcoK?usp=sharing">eight-linkages solidworks parts</a></p>
+<p><a href="https://drive.google.com/drive/folders/1V8UqZfOLf2VeWrtRgqwYjDRNIROFn12n?usp=sharing">extend eight-linkages solidworks parts</a></p>
 <p>----------------------------------------------------------------------------------</p>
-<p><yt-formatted-string class="style-scope ytd-video-primary-info-renderer" force-default-style=""><span>(A)</span>Coppleliasim Dynamic Scene</yt-formatted-string>
-<script>// <![CDATA[
-var winkVideoData = {
-dataVersion: 1,
-frameRate: 20,
-buttonFrameLength: 10,
-buttonFrameOffset: 5,
-frameStops: {
-},
-};
-// ]]></script>
-</p>
+<p><span>(A)</span>Coppleliasim Dynamic Scene</p>
 <div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
 <source src="https://40923240.github.io/cad2021_hw/downloads/coco.mp4" type="video/mp4" /></video>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
@@ -122,5 +114,57 @@ frameStops: {
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
 <p>----------------------------------------------------------------------------------</p>
-<p>心得</p>
-<p>這學期學到了Invertor跟Solvespace的操作方法，也學會Coppeliasim，中間還遇到很多同學倉儲崩潰的，我也解決了他們的問題，現在也有最後的分組合作，擔任組長同意組員的pull request，最後我認為依靠之前所學的，我可以建造一個屬於自己的Github倉儲與網站。</p>
+<p>期末考試</p>
+<p>第一階段</p>
+<p><a href="https://drive.google.com/drive/folders/1VsJMHsDChblTBV0k5y4A0OdNpOtDvMQO?usp=sharing">Download parts</a></p>
+<p>---------------------------------------------------------------------</p>
+<p>parts drawings and&nbsp;assembly drawing</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/0116.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------</p>
+<p>第二階段</p>
+<p>---------------------------------------------------------------------</p>
+<p>第三階段</p>
+<p><a href="https://drive.google.com/drive/folders/1JU3_NyXOxlNRaqG1q6GLDrSz3kF_Dklz?usp=sharing">Download parts</a></p>
+<p>-------------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923240.github.io/cad2021_hw/downloads/0113ttt.mp4" type="video/mp4" /></video>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-------------------------------------------------------------------------------</p>
