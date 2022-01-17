@@ -12,25 +12,11 @@
 <p><span>馬達驅動Jansen's linkage coppeliasim影片(youtubr)</span></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/IiKxFhFhB-8"></iframe></p>
 <p><strong><span>期末考第一題延伸:</span></strong></p>
-<p><strong><span>組合Jansen's linkage延伸影片(youtubr):</span></strong></p>
+<p><strong><span>組合Jansen's linkage延伸影片(youtube):</span></strong></p>
 <p><strong><span></span></strong></p>
-<script>// <![CDATA[
-var winkVideoData = {
-  dataVersion: 1,
-  frameRate: 20,
-  buttonFrameLength: 10,
-  buttonFrameOffset: 5,
-  frameStops: {
-  },
-};
-// ]]></script>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/0987654.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoContainerClass">
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
-<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressRightClass"><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6g4EtvxpZMs"></iframe></div>
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
 <div class="winkVideoControlBarProgressThumbClass"></div>
 </div>
@@ -41,8 +27,8 @@ var winkVideoData = {
 <p><a href="https://drive.google.com/drive/folders/1PZNIlq1110pGDcvD3c7nQRqAF6Wj52X3?usp=sharing">final project stage 2 零件組合檔</a></p>
 <p><a href="https://drive.google.com/file/d/1I6G1BcoWUSwLnw2gfCbYiWbMRbAaw_-4/view?usp=sharing">final project stage2 coppeliasim檔案</a></p>
 <p><img caption="false" height="677" src="https://40923251.github.io/cad2021_hw/images/987654.png" width="1132"></p>
-<p>mearm coppeliasim wink video:</p>
-<p></p>
+<p>mearm coppeliasim video:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/svPGlAwPtGQ"></iframe></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -53,9 +39,7 @@ var winkVideoData = {
   },
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/40923251_final stage2.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoContainerClass">
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
@@ -93,7 +77,7 @@ var winkVideoData = {
 <p><span><span><img caption="false" height="206" src="https://40923251.github.io/cad2021_hw/images/wink03.png" width="366"></span></span></p>
 <p><span><span></span></span></p>
 <p>wink錄製影片</p>
-<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xN4kOlM8-D8"></iframe><img alt="" height="143" src="https://40923251.github.io/cad2021_hw/images/SolidWorks2020.png" width="529"></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -104,9 +88,7 @@ var winkVideoData = {
   },
 };
 // ]]></script>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/wink123456789.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoContainerClass">
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
 <div class="winkVideoControlBarProgressLeftClass"></div>
