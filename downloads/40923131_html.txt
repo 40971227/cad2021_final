@@ -2,7 +2,7 @@
 <p>這學期學到了很多的軟體應用，像是inventor和onshape，這兩個軟體之前都沒什麼學過，所以花比較多時間在摸索，有問題就都問其他有學習過這些軟體的同學。</p>
 <p></p>
 <h4 class="winkVideoControlBarProgressFilledMiddleClass"></h4>
-<div class="winkVideoControlBarProgressThumbClass"><img alt="" height="1031" src="/images/2021-12-29-0.png" width="1910"></div>
+<div class="winkVideoControlBarProgressThumbClass"><img alt="" height="1031" src="https://127.0.0.1:9444/images/2021-12-29-0.png"></div>
 <div class="winkVideoPlayOverlayClass"></div>
 <p>------------------------------------</p>
 <p>再來就是學到了最多的就是wink，要呈現給別人看操作步驟非常簡單。</p>
@@ -59,7 +59,7 @@ var winkVideoData = {
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/F_vmNm73UYY"></iframe></p>
 <p>---------------------------</p>
 <p>期末前小考題目</p>
-<p><img alt="" height="631" src="/images/1-3333.png" width="573"></p>
+<p><img alt="" height="631" src="https://127.0.0.1:9444/images/1-3333.png"></p>
 <p>期末考試零件</p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/ub5AE_GkLB8"></iframe></p>
 <p>期末考試動態模擬</p>
