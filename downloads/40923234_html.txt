@@ -15,8 +15,8 @@
 <p>第三階段:模擬方面看到討論區的同學和我有一樣問題，看到解答後也得到解決。</p>
 <p><a href="https://drive.google.com/file/d/1pXbWpSSwpTdp41W0pXQkflZU9yUA2GGm/view?usp=sharing">meARM零件、組合圖檔</a></p>
 <p>meARM對調組合</p>
-<p><img alt="" height="268" src="/images/螢幕擷取畫面 2022-01-15 162237.jpg" width="450"></p>
-<p><img alt="" height="267" src="/images/螢幕擷取畫面 2022-01-15 162300.jpg" width="450"></p>
+<p><img height="268" src="https://40923234.github.io/cad2021_hw/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-01-15%20162237.jpg" width="450" caption="false"></p>
+<p><img height="267" src="https://40923234.github.io/cad2021_hw/images/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202022-01-15%20162300.jpg" width="450" caption="false"></p>
 <p><a href="https://drive.google.com/file/d/1GoMbyuVyoAuZBSZc3U8M2lqd5u3XIjlq/view?usp=sharing">meARM&nbsp;<span>CoppeliaSim模擬檔案</span></a></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/Q_LQFGLTQmI"></iframe></p>
 <p></p>
@@ -27,13 +27,13 @@
 <p>學期心得</p>
 <p>一. NX12 &amp; solvespace</p>
 <p>&nbsp; &nbsp; 這學期抽到兩種不同的繪圖軟體一個是NX12，另一個則是<span>solvespace</span>，上學期接觸過NX所以使用上還算熟悉，<span>solvespace是全新完全沒接觸過的的軟體使用介面較為陌生，一開始花蠻長時間去摸索，後來解決轉檔匯入的問題後，使用上沒太大問題。</span></p>
-<p><img alt="" height="207" src="/images/images.jpg" width="244"></p>
+<p><img height="207" src="https://40923234.github.io/cad2021_hw/images/images.jpg" width="244" caption="false"></p>
 <p>NX&nbsp;包含強大的2D 設計、配置、製圖、註解與文件製作功能。 透過專為2D 與2D/3D 混合式工作流程最佳化的高生產力工具，您可以最高效率建立2D 配置與工程圖面。 內建的製圖標準確保您的圖面符合各國與國際間的製圖標準。 有了NX，您可以在CAD 模型中完整記錄含3D 註解的設計內容。</p>
 <p><a href="https://www.youtube.com/watch?v=zdiU-a_9feI">NX安裝配置影片</a></p>
 <p><a href="https://www.youtube.com/watch?v=jFGPy9QDJ2o">NX操作流程影片</a></p>
 <p></p>
 <p>Solvespace&nbsp;繪圖</p>
-<p><img alt="Install SolveSpace on Linux | Snap Store" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/01/solvespace-256.png"></p>
+<p><img alt="Install SolveSpace on Linux | Snap Store" src="https://dashboard.snapcraft.io/site_media/appmedia/2020/01/solvespace-256.png" caption="false" width="256" height="256"></p>
 <p>SOLVESPACE&nbsp;是一個免費的 (GPLv3) 參數化 3d CAD 工具。應用包括：</p>
 <div class="list">
 <ul>
@@ -58,3 +58,4 @@
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/hHu0Thq_n8A"></iframe></p>
 <p><a href="https://www.youtube.com/watch?v=xYe9Rw8tTT4">第二軸模擬影片</a></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xYe9Rw8tTT4"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscree
