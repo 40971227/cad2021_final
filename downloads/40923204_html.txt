@@ -63,16 +63,17 @@ var winkVideoData = {
 <p>作業2:</p>
 <p><span>對稱連桿繪製過程及組合(youtube):</span></p>
 <p><iframe width="956" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/JY-u9ngd-GY" title="YouTube video player"></iframe></p>
-<p><img alt="" height="169" src="/images/零件1.png" width="300"></p>
-<p><span><img alt="" height="169" id="__mcenew" src="/images/零件2.png" width="300"></span></p>
-<p><span><span><img alt="" height="169" id="__mcenew" src="/images/零件3.png" width="300"><span id="__caret">_</span></span></span></p>
-<p><span><span><span><img alt="" height="169" id="__mcenew" src="/images/零件4.png" width="300"><span id="__caret">_</span></span></span></span></p>
-<p><span><span><span><span><img alt="" height="169" id="__mcenew" src="/images/零件5.png" width="300"><span id="__caret">_</span></span></span></span></span></p>
-<p><span><span><span><span><span><img alt="" height="169" id="__mcenew" src="/images/零件6.png" width="300"><span id="__caret">_</span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span><img alt="" height="169" id="__mcenew" src="/images/零件8.png" width="300"><span id="__caret">_</span></span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span><span><img alt="" height="169" id="__mcenew" src="/images/零件9.png" width="300"><span id="__caret">_</span></span></span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span><span><span><img alt="" height="169" id="__mcenew" src="/images/期末2-1.png" width="300"><span id="__caret">_</span></span></span></span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span><span><span><span></span></span></span></span></span></span></span></span></span></p>
+<p><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B61.png" width="300"></p>
+<p><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B62.png" width="300"></p>
+<p><span><span></span></span></p>
+<p><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B63.png" width="300"></p>
+<p><span><span><span><span></span></span></span></span></p>
+<p><span><span><span><span><span><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B65.png" width="300"></span></span></span></span></span></p>
+<p><span><span><span><span><span><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B65.png" width="300"></span></span></span></span></span></p>
+<p><span><span><span><span><span><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B66.png" width="300"></span></span></span></span></span></p>
+<p><span><span><span><span><span><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B68.png" width="300"></span></span></span></span></span></p>
+<p><span><span><span><span><span><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B69.png" width="300"></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span><span><span id="__caret"><img alt="" height="169" src="https://40923204.github.io/cad2021_hw/images/%E6%9C%9F%E6%9C%AB2-1.png" width="300"></span></span></span></span></span></span></span></span></span></p>
 <p><span><span><span><span><span><span><span><span><span><span id="__caret">對稱連桿繪製過程及組合(wink):</span></span></span></span></span></span></span></span></span></span></p>
 <script>// <![CDATA[
 var winkVideoData = {
