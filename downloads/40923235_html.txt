@@ -1,13 +1,13 @@
 <h3>40923235</h3>
-<h1>About</h1>
+<h4>About</h4>
 <p>本學期的電腦輔助設計實習, 要求每一位學員根據本 HW template 的格式建立個人的作業倉儲與網頁.</p>
 <hr>
 <p>40923235</p>
 <p>網站倉儲:&nbsp;<a href="https://github.com/40923235/cad2021_hw">https://github.com/40923235/cad2021_hw</a></p>
 <p>網站連結:&nbsp;<a href="https://40923235.github.io/cad2021_hw/content/index.html">https://40923235.github.io/cad2021_hw/content/index.html</a></p>
 <p>其他與作者或作業相關資料說明或介紹</p>
-<h1>Task</h1>
-<h2>Hwpages</h2>
+<h4>Task</h4>
+<h4>Hwpages</h4>
 <table width="532">
 <tbody>
 <tr>
@@ -414,7 +414,7 @@
 </tr>
 </tbody>
 </table>
-<h1>Wink</h1>
+<h4>Wink</h4>
 <p></p>
 <script>// <![CDATA[
 var winkVideoData = {
@@ -438,7 +438,7 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<h1>HW1</h1>
+<h4>HW1</h4>
 <h4>作業一: meArm Robot 零件繪圖與機電運動模擬場景製作</h4>
 <p style="padding-left: 30px;"><span style="background-color: #ccffcc;">Step1</span>: 下載 <a href="https://drive.google.com/file/d/18ukdNlFB9yHY-FZSY-bTnzrPrNv0FE4D/view?usp=sharing">meARM.7z</a> 這個包含尚未完成組立的 meArm Robot 場景與雷射切割零件組立手冊.</p>
 <p style="padding-left: 60px;"><a href="/downloads/meArm_75-0040_v1.pdf">meArm_75-0040_v1.pdf</a> 則是另外一本組立參考手冊.</p>
@@ -517,18 +517,18 @@ end</pre>
 <p><img alt="" class="add_border" height="282" src="/images/meArm_linkage_dimension.png" width="600"></p>
 <p>(From: <a href="/downloads/2016_ADDITIVE MANUFACTURING PROCESSES FOR FABRICATING A MINI ROBOT - COMPUTATIONAL MODELS AND EXPERIMENTAL RESULTS.pdf">2016_ADDITIVE MANUFACTURING PROCESSES FOR FABRICATING A MINI ROBOT - COMPUTATIONAL MODELS AND EXPERIMENTAL RESULTS.pdf</a>)</p>
 <p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2pFReCfDZsU" title="YouTube video player"></iframe></p>
-<h2>軟體下載</h2>
+<h4>軟體下載</h4>
 <p>solvespace/onshape</p>
 <p>solvespace</p>
 <p><a href="https://www.youtube.com/watch?v=Zz4COU8Re-s">https://www.youtube.com/watch?v=Zz4COU8Re-s</a></p>
 <p></p>
-<h2>Autocad繪圖</h2>
+<h4>Autocad繪圖</h4>
 <p>分割前</p>
 <p><img alt="" height="205" src="/images/圖片2.png" width="370"></p>
 <p>分割後</p>
 <p><img alt="" height="215" src="/images/圖片1.png" width="368"></p>
 <p><a href="https://www.youtube.com/watch?v=Ssa2G5nCWkc">https://www.youtube.com/watch?v=Ssa2G5nCWkc</a>&nbsp;</p>
-<h2>onshape 繪圖</h2>
+<h4>onshape 繪圖</h4>
 <p></p>
 <p>Onshape是一個計算機輔助設計(CAD)軟件系統，通過軟件及服務(SAAS) 模型通過 Internet 交付。它廣泛使用雲計算，在基於Internet的服務器上執行計算密集型處理和渲染，用戶可以通過Web瀏覽器或iOS和Android應用程序與系統進行交互。</p>
 <p></p>
@@ -541,17 +541,17 @@ end</pre>
 <li><span>2016 年 4 月，Onshape 推出了其教育計劃，其中包含面向大學生和教育工作者的免費版 Onshape Professional。</span></li>
 <li><span>2016 年 5 月，Onshape 發布了 FeatureScript，這是一種新的開源（MIT 許可）編程語言，用於創建和自定義 CAD 功能。</span></li>
 </ol>
-<h3>onshape安裝配置</h3>
+<h4>onshape安裝配置</h4>
 <p></p>
 <h4>Onshape:</h4>
 <p style="padding-left: 30px;">至 <a href="https://www.onshape.com/en/">https://www.onshape.com/en/</a> 申請帳號後使用.</p>
 <h4></h4>
-<h3>onshape&nbsp;操作流程</h3>
+<h4>onshape&nbsp;操作流程</h4>
 <p>onshape零組件繪圖操作流程影片&nbsp;<a href="https://www.youtube.com/watch?v=g7gKHpUEJj8">https://www.youtube.com/watch?v=g7gKHpUEJj8</a></p>
 <p><span>onshape</span>零組件繪圖教學影片 (Wink)</p>
 <p></p>
 <p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
-<h2>solvespace繪圖</h2>
+<h4>solvespace繪圖</h4>
 <p><span style="color: #000000;">SolveSpace是一個免費（自由）和開源的2D 和3DCAD計算機輔助設計程序。它是一個基於約束的參數化建模器，具有簡單的機械仿真功能。2.1 版以後可在 Windows、Linux 和 macOS 上運行（在 Linux 下也可作為安裝）。它由 Jonathan Westhues 和一個志願者社區開發。</span></p>
 <p><span style="color: #000000;">特點</span></p>
 <ol>
@@ -561,16 +561,16 @@ end</pre>
 <li><span>機構設計&mdash;&mdash;使用約束求解器模擬平面或空間連接，包括銷、球或滑動接頭</span></li>
 <li><span>平面和立體幾何&mdash;&mdash;用實時尺寸圖代替手工求解的三角函數和電子表格</span><span></span></li>
 </ol>
-<h3>solvespace安裝配置</h3>
+<h4>solvespace安裝配置</h4>
 <p>solvespace套件下載安裝與配置</p>
 <p></p>
 <p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
-<h3>solvespace操作流程</h3>
+<h4>solvespace操作流程</h4>
 <p><span>solvespace</span>組件繪圖操作流程影片 (Youtube)</p>
 <p><span>solvespace</span>零組件繪圖教學影片 (Wink)</p>
 <p></p>
 <p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
-<h2>運動場景</h2>
+<h4>運動場景</h4>
 <h4>CAD1:</h4>
 <p style="padding-left: 30px;">CAD1 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
 <p style="padding-left: 30px;">CAD1 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
@@ -580,7 +580,7 @@ end</pre>
 <p style="padding-left: 30px;">CAD2 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
 <p style="padding-left: 30px;">CAD2 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 - SW2020 </span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.</span></p>
 <p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
-<h2>W13</h2>
+<h4>W13</h4>
 <p>Inventor繪圖</p>
 <script>// <![CDATA[
 var winkVideoData = {
@@ -604,7 +604,7 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<h1>HW1-1</h1>
+<h4>HW1-1</h4>
 <p>HW1-1 佔學期成績 15%</p>
 <p><span style="background-color: #ffff99;">HW1-1 必須在 2021.12.01 22:00 之前完成.<br></span></p>
 <p><a href="https://github.com/mdecourse/cad2021/discussions/6">HW1-1 具體項目成果回報區</a>將於 2021.11.18 開啟, 於 <span style="background-color: #ff99cc;">2021.12.01 22:00 關閉.</span></p>
@@ -612,7 +612,7 @@ var winkVideoData = {
 <p>說明: meArm Robot 有四個自由度, 請根據 HW1 的零組件繪製組立與 CoppeliaSim 運動場景模擬, 延伸至 <a href="https://mde.tw/cad2021/content/Task1-1.html">Task1-1</a> 中六個自由度的 Mirobot 機械手臂.</p>
 <p><a href="https://drive.google.com/file/d/1hnoMQ1Hh_Hgdxh7Aym4q43DzLjOWUanR/view?usp=sharing">mirobot_part1_to_part5.7z</a> 為取自 &nbsp;<a href="https://github.com/wlkata/Mirobot-STL">https://github.com/wlkata/Mirobot-STL</a> 的參考零件. 請利用場景中 Mirobot STL 零件, 組合為可以透過 <a href="https://www.coppeliarobotics.com/helpFiles/en/customUIPlugin.htm">UI 介面</a>中的 slider 控制各軸作動旋轉的運動模型.</p>
 <p>請根據 <a href="https://mde.tw/cad2021/content/Task1-1.html">Task1-1</a> 中的說明, 完成各項指定任務.</p>
-<h1>HW2</h1>
+<h4>HW2</h4>
 <p>HW2 佔學期成績 20%</p>
 <p><span style="background-color: #ffff99;">HW2 必須在 2021.12.22 22:00 之前完成.</span></p>
 <p><a href="https://github.com/mdecourse/cad2021/discussions/7">HW2 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2021.12.22 22:00 關閉.</span></p>
@@ -631,7 +631,7 @@ var winkVideoData = {
 <p style="padding-left: 30px;"><a href="https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2016_Projects/pas324_ml634/index.html">https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2016_Projects/pas324_ml634/index.html</a></p>
 <p style="padding-left: 60px;"><a href="https://github.com/mdecourse/InefficientSkittleSorter">https://github.com/mdecourse/InefficientSkittleSorter</a></p>
 <p style="padding-left: 30px;"><a href="https://mearm.com">https://mearm.com</a></p>
-<h1>HW3</h1>
+<h4>HW3</h4>
 <p>HW3 為選項作業.</p>
 <p><a href="https://github.com/mdecourse/cad2021/discussions/9">HW3 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
 <p><a href="https://mde.tw/cad2021/content/Task3.html">https://mde.tw/cad2021/content/Task3.html</a>&nbsp;</p>
@@ -640,7 +640,7 @@ var winkVideoData = {
 <p><a href="https://mde.tw/cad2021/content/Task6.html">https://mde.tw/cad2021/content/Task6.html</a></p>
 <p><a href="https://mde.tw/cad2021/content/Task7.html">https://mde.tw/cad2021/content/Task7.html</a></p>
 <p>請從上列 Tasks 中自行選擇項目內容完成 HW3.</p>
-<h1>Final Project</h1>
+<h4>Final Project</h4>
 <p>Final Project 佔學期成績 40%.</p>
 <p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
 <p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
@@ -715,7 +715,7 @@ frameStops: {
 <div class="winkVideoControlBarProgressFilledMiddleClass"></div>
 </div>
 </div>
-<h1>期末考試</h1>
+<h4>期末考試</h4>
 <div class="winkVideoPlayOverlayClass"></div>
 <p>第三階段</p>
 <script>// <![CDATA[
@@ -739,6 +739,6 @@ frameStops: {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
-<h1>期末心得</h1>
+<h4>期末心得</h4>
 <p>高中時完全沒有接觸繪圖軟體，在大一的製圖課中學習了autocad，學到了一項技能，而在這堂課中多學習了一樣onshape，多會了一樣繪圖程式，至於solvespace我還不算會操作。除了繪圖程式，還學習用wink拍影片，將自己的作業內容用wink展現出來，wink不只有錄影的功能，還可以將畫面螢幕拍成很多照片，wink會自動將那些照片轉換為影片。CoppeliaSim是將之前畫製的零件圖組裝成機械手臂，並可以用程式內的工具將機械手臂轉動甩動，但在操作的過程中不能甩得太快，不然機械手臂會變形。也謝謝同組的組員和組長，將我一步一步的拉入課程中，一路上協助我一起完成作業。</p>
 <div class="winkVideoPlayOverlayClass"></div>
