@@ -1,11 +1,421 @@
 <h3>40923235</h3>
-<p>Final Project 佔學期成績 40%</p>
-<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
-<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
-<p><span style="background-color: #ff99cc;"></span></p>
-<p><span style="background-color: #ff99cc;"></span></p>
-<p>onshape連桿繪製過程及組合</p>
-<p>
+<h1>About</h1>
+<p>本學期的電腦輔助設計實習, 要求每一位學員根據本 HW template 的格式建立個人的作業倉儲與網頁.</p>
+<hr>
+<p>40923235</p>
+<p>網站倉儲:&nbsp;<a href="https://github.com/40923235/cad2021_hw">https://github.com/40923235/cad2021_hw</a></p>
+<p>網站連結:&nbsp;<a href="https://40923235.github.io/cad2021_hw/content/index.html">https://40923235.github.io/cad2021_hw/content/index.html</a></p>
+<p>其他與作者或作業相關資料說明或介紹</p>
+<h1>Task</h1>
+<h2>Hwpages</h2>
+<table width="532">
+<tbody>
+<tr>
+<td width="64">cad</td>
+<td width="91">github account</td>
+<td width="308"></td>
+<td width="69"></td>
+</tr>
+<tr>
+<td>40723126</td>
+<td>40723126</td>
+<td>https://40723126.github.io/cad2021_hw/</td>
+<td><a href="https://40723126.github.io/cad2021_hw/">40723126</a></td>
+</tr>
+<tr>
+<td>40723135</td>
+<td>40723135</td>
+<td>https://40723135.github.io/cad2021_hw/</td>
+<td><a href="https://40723135.github.io/cad2021_hw/">40723135</a></td>
+</tr>
+<tr>
+<td>40723217</td>
+<td>40723217</td>
+<td>https://40723217.github.io/cad2021_hw/</td>
+<td><a href="https://40723217.github.io/cad2021_hw/">40723217</a></td>
+</tr>
+<tr>
+<td>40732331</td>
+<td>40732331</td>
+<td>https://40732331.github.io/cad2021_hw/</td>
+<td><a href="https://40732331.github.io/cad2021_hw/">40732331</a></td>
+</tr>
+<tr>
+<td>40823114</td>
+<td>40823114</td>
+<td>https://40823114.github.io/cad2021_hw/</td>
+<td><a href="https://40823114.github.io/cad2021_hw/">40823114</a></td>
+</tr>
+<tr>
+<td>40823115</td>
+<td>40823115</td>
+<td>https://40823115.github.io/cad2021_hw/</td>
+<td><a href="https://40823115.github.io/cad2021_hw/">40823115</a></td>
+</tr>
+<tr>
+<td>40823117</td>
+<td>pyc40823117</td>
+<td>https://pyc40823117.github.io/cad2021_hw/</td>
+<td><a href="https://pyc40823117.github.io/cad2021_hw/">40823117</a></td>
+</tr>
+<tr>
+<td>40823119</td>
+<td>40823119</td>
+<td>https://40823119.github.io/cad2021_hw/</td>
+<td><a href="https://40823119.github.io/cad2021_hw/">40823119</a></td>
+</tr>
+<tr>
+<td>40823122</td>
+<td>40823122</td>
+<td>https://40823122.github.io/cad2021_hw/</td>
+<td><a href="https://40823122.github.io/cad2021_hw/">40823122</a></td>
+</tr>
+<tr>
+<td>40823127</td>
+<td>40823127</td>
+<td>https://40823127.github.io/cad2021_hw/</td>
+<td><a href="https://40823127.github.io/cad2021_hw/">40823127</a></td>
+</tr>
+<tr>
+<td>40823146</td>
+<td>40823146</td>
+<td>https://40823146.github.io/cad2021_hw/</td>
+<td><a href="https://40823146.github.io/cad2021_hw/">40823146</a></td>
+</tr>
+<tr>
+<td>40823148</td>
+<td>40823148</td>
+<td>https://40823148.github.io/cad2021_hw/</td>
+<td><a href="https://40823148.github.io/cad2021_hw/">40823148</a></td>
+</tr>
+<tr>
+<td>40823215</td>
+<td>40823215</td>
+<td>https://40823215.github.io/cad2021_hw/</td>
+<td><a href="https://40823215.github.io/cad2021_hw/">40823215</a></td>
+</tr>
+<tr>
+<td>40871106</td>
+<td>40871106</td>
+<td>https://40871106.github.io/cad2021_hw/</td>
+<td><a href="https://40871106.github.io/cad2021_hw/">40871106</a></td>
+</tr>
+<tr>
+<td>40923201</td>
+<td>40923201</td>
+<td></td>
+<td><a href="https://40923201.github.io/cad2021_hw/">40923201</a></td>
+</tr>
+<tr>
+<td>40923203</td>
+<td>youshin40923203</td>
+<td>https://youshin40923203.github.io/cad2021_hw/</td>
+<td><a href="https://youshin40923203.github.io/cad2021_hw/">40923203</a></td>
+</tr>
+<tr>
+<td>40923204</td>
+<td>40923204</td>
+<td>https://40923204.github.io/cad2021_hw/</td>
+<td><a href="https://40923204.github.io/cad2021_hw/">40923204</a></td>
+</tr>
+<tr>
+<td>40923205</td>
+<td>40923205</td>
+<td>https://40923205.github.io/cad2021_hw/</td>
+<td><a href="https://40923205.github.io/cad2021_hw/">40923205</a></td>
+</tr>
+<tr>
+<td>40923206</td>
+<td>40923206-1</td>
+<td>https://40923206-1.github.io/cad2021_hw/</td>
+<td><a href="https://40923206-1.github.io/cad2021_hw/">40923206</a></td>
+</tr>
+<tr>
+<td>40923207</td>
+<td>40923207</td>
+<td>https://40923207.github.io/cad2021_hw/</td>
+<td><a href="https://40923207.github.io/cad2021_hw/">40923207</a></td>
+</tr>
+<tr>
+<td>40923208</td>
+<td>nfu40923208</td>
+<td>https://nfu40923208.github.io/cad2021_hw/</td>
+<td><a href="https://nfu40923208.github.io/cad2021_hw/">40923208</a></td>
+</tr>
+<tr>
+<td>40923209</td>
+<td>nfu40923209</td>
+<td>https://nfu40923209.github.io/cad2021_hw/</td>
+<td><a href="https://nfu40923209.github.io/cad2021_hw/">40923209</a></td>
+</tr>
+<tr>
+<td>40923210</td>
+<td>40923210</td>
+<td>https://40923210.github.io/cad2021_hw/</td>
+<td><a href="https://40923210.github.io/cad2021_hw/">40923210</a></td>
+</tr>
+<tr>
+<td>40923211</td>
+<td>a40923211</td>
+<td>https://a40923211.github.io/cad2021_hw/</td>
+<td><a href="https://a40923211.github.io/cad2021_hw/">40923211</a></td>
+</tr>
+<tr>
+<td>40923212</td>
+<td>40923212</td>
+<td>https://40923212.github.io/cad2021_hw/</td>
+<td><a href="https://40923212.github.io/cad2021_hw/">40923212</a></td>
+</tr>
+<tr>
+<td>40923213</td>
+<td>40923213</td>
+<td>https://40923213.github.io/cad2021_hw/</td>
+<td><a href="https://40923213.github.io/cad2021_hw/">40923213</a></td>
+</tr>
+<tr>
+<td>40923214</td>
+<td>40923214</td>
+<td>https://40923214.github.io/cad2021_hw/</td>
+<td><a href="https://40923214.github.io/cad2021_hw/">40923214</a></td>
+</tr>
+<tr>
+<td>40923216</td>
+<td>40923216</td>
+<td>https://40923216.github.io/cad2021_hw/</td>
+<td><a href="https://40923216.github.io/cad2021_hw/">40923216</a></td>
+</tr>
+<tr>
+<td>40923217</td>
+<td>40923217</td>
+<td>https://40923217.github.io/cad2021_hw/</td>
+<td><a href="https://40923217.github.io/cad2021_hw/">40923217</a></td>
+</tr>
+<tr>
+<td>40923218</td>
+<td>40923218</td>
+<td>https://40923218.github.io/cad2021_hw/</td>
+<td><a href="https://40923218.github.io/cad2021_hw/">40923218</a></td>
+</tr>
+<tr>
+<td>40923219</td>
+<td>nfu40923219</td>
+<td>https://nfu40923219.github.io/cad2021_hw/</td>
+<td><a href="https://nfu40923219.github.io/cad2021_hw/">40923219</a></td>
+</tr>
+<tr>
+<td>40923220</td>
+<td>40923220</td>
+<td>https://40923220.github.io/cad2021_hw/</td>
+<td><a href="https://40923220.github.io/cad2021_hw/">40923220</a></td>
+</tr>
+<tr>
+<td>40923221</td>
+<td>40923221</td>
+<td>https://40923221.github.io/cad2021_hw/</td>
+<td><a href="https://40923221.github.io/cad2021_hw/">40923221</a></td>
+</tr>
+<tr>
+<td>40923223</td>
+<td>40923223</td>
+<td>https://40923223.github.io/cad2021_hw/</td>
+<td><a href="https://40923223.github.io/cad2021_hw/">40923223</a></td>
+</tr>
+<tr>
+<td>40923224</td>
+<td>s40923224</td>
+<td>https://s40923224.github.io/cad2021_hw/</td>
+<td><a href="https://s40923224.github.io/cad2021_hw/">40923224</a></td>
+</tr>
+<tr>
+<td>40923225</td>
+<td>40923225</td>
+<td>https://40923225.github.io/cad2021_hw/</td>
+<td><a href="https://40923225.github.io/cad2021_hw/">40923225</a></td>
+</tr>
+<tr>
+<td>40923226</td>
+<td>40923226</td>
+<td>https://40923226.github.io/cad2021_hw/</td>
+<td><a href="https://40923226.github.io/cad2021_hw/">40923226</a></td>
+</tr>
+<tr>
+<td>40923227</td>
+<td>40923227</td>
+<td>https://40923227.github.io/cad2021_hw/</td>
+<td><a href="https://40923227.github.io/cad2021_hw/">40923227</a></td>
+</tr>
+<tr>
+<td>40923228</td>
+<td>40923228</td>
+<td>https://40923228.github.io/cad2021_hw/</td>
+<td><a href="https://40923228.github.io/cad2021_hw/">40923228</a></td>
+</tr>
+<tr>
+<td>40923229</td>
+<td>40923229</td>
+<td>https://40923229.github.io/cad2021_hw/</td>
+<td><a href="https://40923229.github.io/cad2021_hw/">40923229</a></td>
+</tr>
+<tr>
+<td>40923230</td>
+<td>40923230</td>
+<td>https://40923230.github.io/cad2021_hw/</td>
+<td><a href="https://40923230.github.io/cad2021_hw/">40923230</a></td>
+</tr>
+<tr>
+<td>40923231</td>
+<td>40923231</td>
+<td>https://40923231.github.io/cad2021_hw/</td>
+<td><a href="https://40923231.github.io/cad2021_hw/">40923231</a></td>
+</tr>
+<tr>
+<td>40923232</td>
+<td>40923232</td>
+<td>https://40923232.github.io/cad2021_hw/</td>
+<td><a href="https://40923232.github.io/cad2021_hw/">40923232</a></td>
+</tr>
+<tr>
+<td>40923233</td>
+<td>40923233</td>
+<td>https://40923233.github.io/cad2021_hw/</td>
+<td><a href="https://40923233.github.io/cad2021_hw/">40923233</a></td>
+</tr>
+<tr>
+<td>40923234</td>
+<td>40923234</td>
+<td>https://40923234.github.io/cad2021_hw/</td>
+<td><a href="https://40923234.github.io/cad2021_hw/">40923234</a></td>
+</tr>
+<tr>
+<td>40923235</td>
+<td>40923235</td>
+<td>https://40923235.github.io/cad2021_hw/</td>
+<td><a href="https://40923235.github.io/cad2021_hw/">40923235</a></td>
+</tr>
+<tr>
+<td>40923236</td>
+<td>40923236</td>
+<td>https://40923236.github.io/cad2021_hw/</td>
+<td><a href="https://40923236.github.io/cad2021_hw/">40923236</a></td>
+</tr>
+<tr>
+<td>40923237</td>
+<td>40923237</td>
+<td>https://40923237.github.io/cad2021_hw/</td>
+<td><a href="https://40923237.github.io/cad2021_hw/">40923237</a></td>
+</tr>
+<tr>
+<td>40923238</td>
+<td>40923238</td>
+<td>https://40923238.github.io/cad2021_hw/</td>
+<td><a href="https://40923238.github.io/cad2021_hw/">40923238</a></td>
+</tr>
+<tr>
+<td>40923239</td>
+<td>40923239</td>
+<td>https://40923239.github.io/cad2021_hw/</td>
+<td><a href="https://40923239.github.io/cad2021_hw/">40923239</a></td>
+</tr>
+<tr>
+<td>40923240</td>
+<td>40923240</td>
+<td>https://40923240.github.io/cad2021_hw/</td>
+<td><a href="https://40923240.github.io/cad2021_hw/">40923240</a></td>
+</tr>
+<tr>
+<td>40923241</td>
+<td>40923241</td>
+<td>https://40923241.github.io/cad2021_hw/</td>
+<td><a href="https://40923241.github.io/cad2021_hw/">40923241</a></td>
+</tr>
+<tr>
+<td>40923242</td>
+<td>40923242</td>
+<td>https://40923242.github.io/cad2021_hw/</td>
+<td><a href="https://40923242.github.io/cad2021_hw/">40923242</a></td>
+</tr>
+<tr>
+<td>40923243</td>
+<td>40923243</td>
+<td>https://40923243.github.io/cad2021_hw/</td>
+<td><a href="https://40923243.github.io/cad2021_hw/">40923243</a></td>
+</tr>
+<tr>
+<td>40923244</td>
+<td>40923244</td>
+<td>https://40923244.github.io/cad2021_hw/</td>
+<td><a href="https://40923244.github.io/cad2021_hw/">40923244</a></td>
+</tr>
+<tr>
+<td>40923245</td>
+<td>40923245-1</td>
+<td>https://40923245-1.github.io/cad2021_hw/</td>
+<td><a href="https://40923245-1.github.io/cad2021_hw/">40923245</a></td>
+</tr>
+<tr>
+<td>40923246</td>
+<td>40923246</td>
+<td>https://40923246.github.io/cad2021_hw/</td>
+<td><a href="https://40923246.github.io/cad2021_hw/">40923246</a></td>
+</tr>
+<tr>
+<td>40923247</td>
+<td>40923247</td>
+<td>https://40923247.github.io/cad2021_hw/</td>
+<td><a href="https://40923247.github.io/cad2021_hw/">40923247</a></td>
+</tr>
+<tr>
+<td>40923248</td>
+<td>40923248</td>
+<td>https://40923248.github.io/cad2021_hw/</td>
+<td><a href="https://40923248.github.io/cad2021_hw/">40923248</a></td>
+</tr>
+<tr>
+<td>40923249</td>
+<td>40923249-1</td>
+<td>https://40923249-1.github.io/cad2021_hw/</td>
+<td><a href="https://40923249-1.github.io/cad2021_hw/">40923249</a></td>
+</tr>
+<tr>
+<td>40923250</td>
+<td>40923250</td>
+<td>https://40923250.github.io/cad2021_hw/</td>
+<td><a href="https://40923250.github.io/cad2021_hw/">40923250</a></td>
+</tr>
+<tr>
+<td>40923251</td>
+<td>40923251</td>
+<td>https://40923251.github.io/cad2021_hw/</td>
+<td><a href="https://40923251.github.io/cad2021_hw/">40923251</a></td>
+</tr>
+<tr>
+<td>40923252</td>
+<td>40923252</td>
+<td>https://40923252.github.io/cad2021_hw/</td>
+<td><a href="https://40923252.github.io/cad2021_hw/">40923252</a></td>
+</tr>
+<tr>
+<td>40923253</td>
+<td>40923253</td>
+<td>https://40923253.github.io/cad2021_hw/</td>
+<td><a href="https://40923253.github.io/cad2021_hw/">40923253</a></td>
+</tr>
+<tr>
+<td>40971220</td>
+<td>40971220</td>
+<td>https://40971220.github.io/cad2021_hw/</td>
+<td><a href="https://40971220.github.io/cad2021_hw/">40971220</a></td>
+</tr>
+<tr>
+<td>40971227</td>
+<td>40971227</td>
+<td>https://40971227.github.io/cad2021_hw/</td>
+<td><a href="https://40971227.github.io/cad2021_hw/">40971227</a></td>
+</tr>
+</tbody>
+</table>
+<h1>Wink</h1>
+<p></p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -16,35 +426,8 @@ var winkVideoData = {
   },
 };
 // ]]></script>
-</p>
-<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dimame="/static" data-dirname="40923235-test-wink-files" data-varname="winkVideoData" video="">
-<source src="https://40923235.github.io/cad2021_hw/downloads/40923235-test.mp4" type="video/mp4" /></video>
-<div class="winkVideoOverlayClass"></div>
-<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-<div class="winkVideoControlBarProgressLeftClass"></div>
-</div>
-<div class="winkVideoPlayOverlayClass"></div>
-<div class="winkVideoPlayOverlayClass"></div>
-<div class="winkVideoPlayOverlayClass"></div>
-<div class="winkVideoPlayOverlayClass"></div>
-</div>
-<p>-----------------------------------------------------</p>
-<p>coppeliasim運轉</p>
-<p>
-<script>// <![CDATA[
-var winkVideoData = {
-  dataVersion: 1,
-  frameRate: 20,
-  buttonFrameLength: 10,
-  buttonFrameOffset: 5,
-  frameStops: {
-  },
-};
-// ]]></script>
-</p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="https://40923235.github.io/cad2021_hw/downloads/40923235-0106.mp4" type="video/mp4" /></video>
+<source src="/downloads/wink.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -55,3 +438,307 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<h1>HW1</h1>
+<h4>作業一: meArm Robot 零件繪圖與機電運動模擬場景製作</h4>
+<p style="padding-left: 30px;"><span style="background-color: #ccffcc;">Step1</span>: 下載 <a href="https://drive.google.com/file/d/18ukdNlFB9yHY-FZSY-bTnzrPrNv0FE4D/view?usp=sharing">meARM.7z</a> 這個包含尚未完成組立的 meArm Robot 場景與雷射切割零件組立手冊.</p>
+<p style="padding-left: 60px;"><a href="/downloads/meArm_75-0040_v1.pdf">meArm_75-0040_v1.pdf</a> 則是另外一本組立參考手冊.</p>
+<p style="padding-left: 30px;"><span style="background-color: #ccffcc;">Step2</span>: 從課程網頁中的 <a href="https://mde.tw/cad2021/content/Compile%20CoppeliaSim.html">Compile CoppeliaSim 頁面</a>, 下載 <a href="https://drive.google.com/file/d/1hV8hHjjnLvUp-AEjd2iCfBYk067WSjcy/view?usp=sharing">coppeliaSim 4.1.0 官方版與 MSYS2 編譯版.7z</a> (檔案大小 412 MB, 解開壓縮後 1GB) 可攜套件.</p>
+<p style="padding-left: 30px;"><span style="background-color: #ccffcc;">Step3</span>: 在 HW1 中, 要求每一位學員透過程式亂數分配 (兩班實際亂數分配結果以上課時點擊下列按鈕所得結果為準) 所使用的兩套參數式 CAD 套件, 從軟體發展緣起開始進行介紹,&nbsp; 經過教育版軟體套件檔案的取得, 下載安裝以及配置使用. 根據 Step1 中的零件尺寸, 逐一完成 meArm Robot 各零件繪製與組立. 並將零件<a href="https://www.coppeliarobotics.com/helpFiles/en/importExport.htm">匯入</a> CoppeliaSim 進行組裝配置後, 以 <a href="https://www.coppeliarobotics.com/helpFiles/en/customUIPlugin.htm">UI 介面</a>中的 slider 控制 meArm Robot 各軸的旋轉作動.</p>
+<p style="padding-left: 30px;">2b CAD 套件分配結果: <a href="https://mde.tw/cad2021/downloads/online/2b_hw1_cad.txt">https://mde.tw/cad2021/downloads/online/2b_hw1_cad.txt</a></p>
+<h4>附件:</h4>
+<p style="padding-left: 30px;">1. CAD 套件分配表:</p>
+<p style="padding-left: 60px;">sw: Solidworks, inv: Inventor, nx: NX12, ons: Onshape, slvs: Solvespace</p>
+<p style="padding-left: 60px;"><a href="https://mde.tw/cad2021/content/run.html?src=https://gist.githubusercontent.com/mdecourse/6d0b8df27021529f910cbd0fde2222b6/raw/d5dbb42166e70d9bf4815e0f669957e40106f8fc/distrubute_cad_combination.py">2a 套件亂數分配結果</a></p>
+<p style="padding-left: 60px;"><a href="https://mde.tw/cad2021/content/run.html?src=https://gist.githubusercontent.com/mdecourse/6d0b8df27021529f910cbd0fde2222b6/raw/d5dbb42166e70d9bf4815e0f669957e40106f8fc/distrubute_cad_combination_b.py">2b 套件亂數分配結果</a></p>
+<p style="padding-left: 30px;">2. 在兩套 CAD 完成零件繪圖並轉入 CoppeliaSim 後, 為了建立 Dynamic Model 必須利用 <a href="https://www.coppeliarobotics.com/helpFiles/en/shapeEditModes.htm">shape edit modes</a> 轉為 <a href="https://www.coppeliarobotics.com/helpFiles/en/buildingAModelTutorial.htm">clean model</a>, 並與實際轉入的 STL 格式零件外形結合應用後建立模擬場景 (scenes).</p>
+<p style="padding-left: 30px;">3. meARM Robot <a href="https://www.youtube.com/watch?v=YdhpMqNa_mE">動態模擬場景</a>的建構, 可參考 <a href="https://www.youtube.com/watch?v=ucO0v5iel-c">0</a>, <a href="https://www.youtube.com/watch?v=jeviAIlh7wY">1</a>, <a href="https://www.youtube.com/watch?v=MrmHoGa3Kg4">2</a>, <a href="https://www.youtube.com/watch?v=43-xyipH9Ss">3</a>, <a href="https://www.youtube.com/watch?v=i9e4GXov8rk">4</a>, <a href="https://www.youtube.com/watch?v=7f1jzC6Uptg">5</a>, <a href="https://www.youtube.com/watch?v=xadyMQJxjnw">6</a>, <a href="https://www.youtube.com/watch?v=SQhKlnNnzuQ">7</a>, 也可參考 <a href="https://github.com/mdecourse/models/blob/master/robots/non-mobile/uarm.ttm">Uarm Robot model</a> 與相關<a href="https://www.youtube.com/watch?v=OqPVK__z9Ek">影片</a>.</p>
+<p style="padding-left: 30px;">4. CoppeliaSim design dynamic simulations <a href="https://www.coppeliarobotics.com/helpFiles/en/designingDynamicSimulations.htm">說明頁面</a>.</p>
+<p style="padding-left: 30px;">5. <a href="https://mde.tw/cad2021/downloads/lua/index.html">網際 Lua</a> 程式執行.</p>
+<p style="padding-left: 30px;">6. <a href="/downloads/meArm.slvs">meArm.slvs</a>, <a href="/downloads/meArm_in_solvespace.slvs">meArm_in_solvespace.slvs</a></p>
+<p style="padding-left: 30px;">7. UI 介面程式參考:</p>
+<pre class="brush:lua;auto-links:false;toolbar:false" contenteditable="false">function closeEventHandler(h)
+    sim.addLog(sim.verbosity_scriptinfos,'Window '..h..' is closing...')
+    simUI.hide(h)
+end
+
+function joint1_rotate(ui,id,newVal)
+    simUI.setLabelText(ui,3000,'theta1 set to '..newVal)
+    sim.setJointTargetPosition(joint1, newVal*deg)
+end
+
+function joint2_rotate(ui,id,newVal)
+    simUI.setLabelText(ui,3000,'theta2 set to '..newVal)
+    sim.setJointTargetPosition(joint2, newVal*deg)
+end
+
+function joint3_rotate(ui,id,newVal)
+    simUI.setLabelText(ui,3000,'theta3 set to '..newVal)
+    sim.setJointTargetPosition(joint3, newVal*deg)
+end
+
+function joint16_rotate(ui,id,newVal)
+    simUI.setLabelText(ui,3000,'theta16 set to '..newVal)
+    sim.setJointTargetPosition(joint16, newVal*deg)
+    sim.setJointTargetPosition(joint20, -newVal*deg)
+end
+
+function sysCall_init()
+    -- do some initialization here
+    joint1 = sim.getObjectHandle('motor1')
+    joint2 = sim.getObjectHandle('motor2')
+    joint3 = sim.getObjectHandle('motor3')
+    joint16 = sim.getObjectHandle('motor16')
+    joint20 = sim.getObjectHandle('motor20')
+    i = 0
+    deg = math.pi/180
+    print(i)
+    xml = [[
+&lt;ui closeable="true" on-close="closeEventHandler" resizable="true"&gt;
+    &lt;label text="This is a demo of the CustomUI plugin. Browse through the tabs below to explore all the widgets that can be created with the plugin." wordwrap="true" /&gt;
+    &lt;tabs&gt;
+        &lt;tab title="Numeric"&gt;a
+            &lt;label text="Sliders can be oriented horizontally or vertically, and have optional properties that can be set (in the XML) such as minimum and maximum value." wordwrap="true" /&gt;
+            &lt;label text="" id="3000" wordwrap="true" /&gt;
+            &lt;label text="theta1" /&gt; &lt;hslider tick-position="above" tick-interval="1" 
+            minimum="0" maximum="360" on-change="joint1_rotate" /&gt;
+            &lt;label text="theta2" /&gt; &lt;hslider tick-position="above" tick-interval="1" 
+            minimum="-90" maximum="65" on-change="joint2_rotate" /&gt;
+            &lt;label text="theta3" /&gt; &lt;hslider tick-position="above" tick-interval="1" 
+            minimum="-90" maximum="185" on-change="joint3_rotate" /&gt;
+            &lt;label text="theta16" /&gt; &lt;hslider tick-position="above" tick-interval="1" 
+            minimum="0" maximum="15" on-change="joint16_rotate" /&gt;
+        &lt;/tab&gt;
+    &lt;/tabs&gt;
+&lt;/ui&gt;
+]]
+    ui=simUI.create(xml)
+    
+end</pre>
+<p><img alt="" class="add_border" height="282" src="/images/meArm_linkage_dimension.png" width="600"></p>
+<p>(From: <a href="/downloads/2016_ADDITIVE MANUFACTURING PROCESSES FOR FABRICATING A MINI ROBOT - COMPUTATIONAL MODELS AND EXPERIMENTAL RESULTS.pdf">2016_ADDITIVE MANUFACTURING PROCESSES FOR FABRICATING A MINI ROBOT - COMPUTATIONAL MODELS AND EXPERIMENTAL RESULTS.pdf</a>)</p>
+<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2pFReCfDZsU" title="YouTube video player"></iframe></p>
+<h2>軟體下載</h2>
+<p>solvespace/onshape</p>
+<p>solvespace</p>
+<p><a href="https://www.youtube.com/watch?v=Zz4COU8Re-s">https://www.youtube.com/watch?v=Zz4COU8Re-s</a></p>
+<p></p>
+<h2>Autocad繪圖</h2>
+<p>分割前</p>
+<p><img alt="" height="205" src="/images/圖片2.png" width="370"></p>
+<p>分割後</p>
+<p><img alt="" height="215" src="/images/圖片1.png" width="368"></p>
+<p><a href="https://www.youtube.com/watch?v=Ssa2G5nCWkc">https://www.youtube.com/watch?v=Ssa2G5nCWkc</a>&nbsp;</p>
+<h2>onshape 繪圖</h2>
+<p></p>
+<p>Onshape是一個計算機輔助設計(CAD)軟件系統，通過軟件及服務(SAAS) 模型通過 Internet 交付。它廣泛使用雲計算，在基於Internet的服務器上執行計算密集型處理和渲染，用戶可以通過Web瀏覽器或iOS和Android應用程序與系統進行交互。</p>
+<p></p>
+<p>特點</p>
+<ol>
+<li><span>2012 年 11 月，SolidWorks 前 CEO Jon Hirschtick 和 John McEleney 帶領六位聯合創始人推出了 Belmont Technology，這個佔位符名稱後來改為 Onshape。該公司的第一輪融資來自 North Bridge Venture Partners 和 Commonwealth Capital 的 900 萬美元。</span></li>
+<li><span>2015 年 3 月，在與 52 個國家/地區的一千多名 CAD 專業人員進行預生產測試後，Onshape 發布了其云 CAD 軟件的公測版。Beta 版發布中包括適用於 iPhone 的 Onshape。</span></li>
+<li><span>2015 年 8 月，該公司發布了適用於 Android 的 Onshape 應用程序。</span></li>
+<li><span>2015 年 12 月，Onshape 推出了完整的商業版本。</span><span>公司還推出了 Onshape App Store，提供 CAM、模擬、渲染和其他基於雲的工程工具。Onshape App Store 與 24 個開發者合作夥伴一起推出。</span></li>
+<li><span>2016 年 4 月，Onshape 推出了其教育計劃，其中包含面向大學生和教育工作者的免費版 Onshape Professional。</span></li>
+<li><span>2016 年 5 月，Onshape 發布了 FeatureScript，這是一種新的開源（MIT 許可）編程語言，用於創建和自定義 CAD 功能。</span></li>
+</ol>
+<h3>onshape安裝配置</h3>
+<p></p>
+<h4>Onshape:</h4>
+<p style="padding-left: 30px;">至 <a href="https://www.onshape.com/en/">https://www.onshape.com/en/</a> 申請帳號後使用.</p>
+<h4></h4>
+<h3>onshape&nbsp;操作流程</h3>
+<p>onshape零組件繪圖操作流程影片&nbsp;<a href="https://www.youtube.com/watch?v=g7gKHpUEJj8">https://www.youtube.com/watch?v=g7gKHpUEJj8</a></p>
+<p><span>onshape</span>零組件繪圖教學影片 (Wink)</p>
+<p></p>
+<p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
+<h2>solvespace繪圖</h2>
+<p><span style="color: #000000;">SolveSpace是一個免費（自由）和開源的2D 和3DCAD計算機輔助設計程序。它是一個基於約束的參數化建模器，具有簡單的機械仿真功能。2.1 版以後可在 Windows、Linux 和 macOS 上運行（在 Linux 下也可作為安裝）。它由 Jonathan Westhues 和一個志願者社區開發。</span></p>
+<p><span style="color: #000000;">特點</span></p>
+<ol>
+<li><span>建模 3D 零件 - 使用拉伸、旋轉和布爾</span><span>（聯合/差異）操作進行繪製</span></li>
+<li><span>建模 2D 零件 - 將零件繪製為單個部分，並導出為DXF、PDF</span><span>或SVG</span><span>；使用 3D 裝配來驗證適合度</span></li>
+<li><span>準備CAM</span><span>數據 - 為水刀機或激光切割機導出 2D 矢量藝術；或生成STEP或STL</span><span>，用於導入第三方CAM軟件</span></li>
+<li><span>機構設計&mdash;&mdash;使用約束求解器模擬平面或空間連接，包括銷、球或滑動接頭</span></li>
+<li><span>平面和立體幾何&mdash;&mdash;用實時尺寸圖代替手工求解的三角函數和電子表格</span><span></span></li>
+</ol>
+<h3>solvespace安裝配置</h3>
+<p>solvespace套件下載安裝與配置</p>
+<p></p>
+<p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
+<h3>solvespace操作流程</h3>
+<p><span>solvespace</span>組件繪圖操作流程影片 (Youtube)</p>
+<p><span>solvespace</span>零組件繪圖教學影片 (Wink)</p>
+<p></p>
+<p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
+<h2>運動場景</h2>
+<h4>CAD1:</h4>
+<p style="padding-left: 30px;">CAD1 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD1 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD1 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 - SW2020 </span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.<br></span></p>
+<h4>CAD2:</h4>
+<p style="padding-left: 30px;">CAD2 零件轉出後轉入 CoppeliaSim 操作影片 (Youtube)</p>
+<p style="padding-left: 30px;">CAD2 零件轉入 CoppeliaSim 教學影片 (Wink)</p>
+<p style="padding-left: 30px;">CAD2 轉入 Coppeliasim 教學影片 embedded 影片: 標題必須為「<span style="background-color: #ffff99;">NFU - MDE - cad2021 - 學號 - SW2020 </span>零件轉入 CoppeliaSim 教學影片」且加上<span style="background-color: #ccffcc;">語音說明</span>與<span style="background-color: #ccffcc;">字幕.</span></p>
+<p>若使用 Solidworks 2017 版, 則將 SW2020 換為 SW2017, 其他套件 INV2020 代表 AutoDesk Inventor 2020 版, 還有 Onshape 與 Solvespace 等套件名稱.</p>
+<h2>W13</h2>
+<p>Inventor繪圖</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
+<source src="/downloads/onshape video.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h1>HW1-1</h1>
+<p>HW1-1 佔學期成績 15%</p>
+<p><span style="background-color: #ffff99;">HW1-1 必須在 2021.12.01 22:00 之前完成.<br></span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/6">HW1-1 具體項目成果回報區</a>將於 2021.11.18 開啟, 於 <span style="background-color: #ff99cc;">2021.12.01 22:00 關閉.</span></p>
+<h4>作業 1-1: Mirobot 機械手臂場景組合</h4>
+<p>說明: meArm Robot 有四個自由度, 請根據 HW1 的零組件繪製組立與 CoppeliaSim 運動場景模擬, 延伸至 <a href="https://mde.tw/cad2021/content/Task1-1.html">Task1-1</a> 中六個自由度的 Mirobot 機械手臂.</p>
+<p><a href="https://drive.google.com/file/d/1hnoMQ1Hh_Hgdxh7Aym4q43DzLjOWUanR/view?usp=sharing">mirobot_part1_to_part5.7z</a> 為取自 &nbsp;<a href="https://github.com/wlkata/Mirobot-STL">https://github.com/wlkata/Mirobot-STL</a> 的參考零件. 請利用場景中 Mirobot STL 零件, 組合為可以透過 <a href="https://www.coppeliarobotics.com/helpFiles/en/customUIPlugin.htm">UI 介面</a>中的 slider 控制各軸作動旋轉的運動模型.</p>
+<p>請根據 <a href="https://mde.tw/cad2021/content/Task1-1.html">Task1-1</a> 中的說明, 完成各項指定任務.</p>
+<h1>HW2</h1>
+<p>HW2 佔學期成績 20%</p>
+<p><span style="background-color: #ffff99;">HW2 必須在 2021.12.22 22:00 之前完成.</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/7">HW2 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2021.12.22 22:00 關閉.</span></p>
+<p>meArm 逆向運動學與網際參數式 CAD API 結合應用.</p>
+<p>請將 <a href="https://github.com/mdecourse/meArm">https://github.com/mdecourse/meArm</a> 中的 meArm Robot 逆向運動學程式, 改為 Lua 與 Python 程式, 使能套用至 HW1 所完成的 CoppeliaSim meArm 運動模擬場景. 並分別採 Lua, Legacy remote API 及 Bluezero remote API 逆向運動的方式進行控制.</p>
+<p>請利用 <a href="https://mde.tw/cad2021/content/Task%202.html">Task2</a> 中的 Solidworks, Inventor 與 NX API 程式控制 meArm Robot 零組件尺寸, 說明並討論如何透過網際程式控制 meArm Robot 的零件尺寸, 並結合上述逆向運動學程式庫, 使得自動化機電產品開發流程更容易滿足客製化需求.</p>
+<h4>參考:</h4>
+<p style="padding-left: 30px;"><a href="/downloads/2016_ADDITIVE MANUFACTURING PROCESSES FOR FABRICATING A MINI ROBOT - COMPUTATIONAL MODELS AND EXPERIMENTAL RESULTS.pdf">2016_ADDITIVE MANUFACTURING PROCESSES FOR FABRICATING A MINI ROBOT - COMPUTATIONAL MODELS AND EXPERIMENTAL RESULTS.pdf</a></p>
+<p style="padding-left: 30px;"><a href="/downloads/Robot Manipulator Control with Inverse Kinematics PD-Pseudoinverse Jacobian and Forward Kinematics Denavit Hartenberg.pdf">Robot Manipulator Control with Inverse Kinematics PD-Pseudoinverse Jacobian and Forward Kinematics Denavit Hartenber.pdf</a></p>
+<p style="padding-left: 30px;"><a href="/downloads/KINEMATIC ANALYSIS FOR ROBOT ARM.pdf">KINEMATIC ANALYSIS FOR ROBOT ARM.pdf</a></p>
+<p style="padding-left: 30px;"><a href="https://codebender.cc/user/MeArm">https://codebender.cc/user/MeArm</a></p>
+<p style="padding-left: 30px;"><a href="https://github.com/mdecourse/meArmPi">https://github.com/mdecourse/meArmPi</a></p>
+<p style="padding-left: 60px;"><a href="/downloads/MeArmPiTechnicalOverviewV0-3DRAFT.pdf">/downloads/MeArmPiTechnicalOverviewV0-3DRAFT.pdf</a></p>
+<p style="padding-left: 30px;"><a href="https://github.com/mdecourse/me-arm-ik">https://github.com/mdecourse/me-arm-ik</a></p>
+<p style="padding-left: 30px;"><a href="https://github.com/mdecourse/mearm_model">https://github.com/mdecourse/mearm_model</a></p>
+<p style="padding-left: 30px;"><a href="https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2016_Projects/pas324_ml634/index.html">https://courses.ece.cornell.edu/ece5990/ECE5725_Fall2016_Projects/pas324_ml634/index.html</a></p>
+<p style="padding-left: 60px;"><a href="https://github.com/mdecourse/InefficientSkittleSorter">https://github.com/mdecourse/InefficientSkittleSorter</a></p>
+<p style="padding-left: 30px;"><a href="https://mearm.com">https://mearm.com</a></p>
+<h1>HW3</h1>
+<p>HW3 為選項作業.</p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/9">HW3 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p><a href="https://mde.tw/cad2021/content/Task3.html">https://mde.tw/cad2021/content/Task3.html</a>&nbsp;</p>
+<p><a href="https://mde.tw/cad2021/content/Task4.html">https://mde.tw/cad2021/content/Task4.html</a></p>
+<p><a href="https://mde.tw/cad2021/content/Task5.html">https://mde.tw/cad2021/content/Task5.html</a></p>
+<p><a href="https://mde.tw/cad2021/content/Task6.html">https://mde.tw/cad2021/content/Task6.html</a></p>
+<p><a href="https://mde.tw/cad2021/content/Task7.html">https://mde.tw/cad2021/content/Task7.html</a></p>
+<p>請從上列 Tasks 中自行選擇項目內容完成 HW3.</p>
+<h1>Final Project</h1>
+<p>Final Project 佔學期成績 40%.</p>
+<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
+<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
+<p><span style="background-color: #ff99cc;"></span></p>
+<p><span style="background-color: #ff99cc;"></span></p>
+<p>onshape連桿繪製過程及組合</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData">
+<source src="https://40923235.github.io/cad2021_hw/downloads/40923235-test.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"><a class="winkVideoControlBarProgressRightClass" div=""></a></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-----------------------------------------------------</p>
+<p>coppeliasim運轉</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData">
+<source src="https://40923235.github.io/cad2021_hw/downloads/40923235-0106.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"><a class="winkVideoControlBarProgressRightClass" div=""></a></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>-----------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData">
+<source src="https://40923235.github.io/cad2021_hw/downloads/40923235-test2.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"><a class="winkVideoControlBarProgressRightClass" div=""></a></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+</div>
+</div>
+<h1>期末考試</h1>
+<div class="winkVideoPlayOverlayClass"></div>
+<p>第三階段</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData">
+<source src="/downloads/40923235test3.mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"><a class="winkVideoControlBarProgressRightClass" div=""></a></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<h1>期末心得</h1>
+<p>高中時完全沒有接觸繪圖軟體，在大一的製圖課中學習了autocad，學到了一項技能，而在這堂課中多學習了一樣onshape，多會了一樣繪圖程式，至於solvespace我還不算會操作。除了繪圖程式，還學習用wink拍影片，將自己的作業內容用wink展現出來，wink不只有錄影的功能，還可以將畫面螢幕拍成很多照片，wink會自動將那些照片轉換為影片。CoppeliaSim是將之前畫製的零件圖組裝成機械手臂，並可以用程式內的工具將機械手臂轉動甩動，但在操作的過程中不能甩得太快，不然機械手臂會變形。也謝謝同組的組員和組長，將我一步一步的拉入課程中，一路上協助我一起完成作業。</p>
+<div class="winkVideoPlayOverlayClass"></div>
