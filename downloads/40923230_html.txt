@@ -137,7 +137,7 @@ var winkVideoData = {
 };
 // ]]></script>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData" video="">
-<source src="https://40923230.github.io/cad2021_hw/downloads/2.mp4" type="video/mp4" /></video>
+<source src="https://40923230.github.io/cad2021_hw/downloads/40923230.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -148,3 +148,11 @@ var winkVideoData = {
 </div>
 <div class="winkVideoPlayOverlayClass"></div>
 </div>
+<p>-------------------------------------------------------------------</p>
+<p>零件圖:</p>
+<p><a href="https://drive.google.com/file/d/1M0astGy10GkcPQx0liMKx4crg4hbk21S/view?usp=sharing">https://drive.google.com/file/d/1M0astGy10GkcPQx0liMKx4crg4hbk21S/view?usp=sharing</a></p>
+<p>coppeliasim:</p>
+<p><a href="https://drive.google.com/file/d/1vM7vyh7wMtv9ZmRReUF4LcY-m76Jk4a0/view?usp=sharing">https://drive.google.com/file/d/1vM7vyh7wMtv9ZmRReUF4LcY-m76Jk4a0/view?usp=sharing</a></p>
+<p>----------------------------------------------------------------</p>
+<p>心得:</p>
+<p>很開心能夠完成這次的作業，這次的作業真的是大工程，從開學開始畫圖到現在把他組起來讓他動，非常有成就感，雖然過程中有許多波折，但是靠我的組員及組長還有老師的幫忙，終於順利完成!</p>
