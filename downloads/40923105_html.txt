@@ -66,3 +66,27 @@ var winkVideoData = {
 <p><span style="background-color: #00ffff;">第三階段</span></p>
 <p><a href="https://drive.google.com/file/d/1kznhzjKpzKqGU_pQuMxeSeIwdipvCK-h/view?usp=sharing">40923105_final_ttt.zip</a></p>
 <p><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/COPP.png" width="781"></p>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData3 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1060" height="562" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData3">
+<source src="https://40923105.github.io/cad2021_hw/downloads/0110.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
