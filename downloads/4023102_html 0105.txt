@@ -1,0 +1,20 @@
+<h1>期末回報</h1>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"><span style="color: #0000ff;">第一階段</span></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text">繪製此圖檔依序繪製</div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"><img alt="" height="197" src="/images/螢幕擷取畫面 2022-01-03 094737.jpg" width="226"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"><a href="https://youtu.be/qoowx6Qk0zw">https://youtu.be/qoowx6Qk0zw</a></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"><img alt="" height="183" src="/images/完成.jpg" width="341"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
+<div class="chat-item__text js-chat-item-text"></div>
