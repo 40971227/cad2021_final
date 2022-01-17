@@ -2,3 +2,29 @@
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/VcqnFekgNq4"></iframe></p>
 <p></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/MROJneTHvXc"></iframe></p>
+<p></p>
+<p></p>
+<p>期末考第一題延伸:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/9_A8ZpOm8Ps"></iframe></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass">
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><span></span></p>
+<p><span>1/13 期末考</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/AkTfSM60qk8"></iframe></span></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass">
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得</p>
+<p>第一階段:零件畫好後，組裝後即沒問題。</p>
+<p>第二階段:看過討論區後依然不會，跟同學討論有會一點，之後是請教同學。</p>
+<p>第三階段:看過所有同學的問題點，再慢慢找尋自己出錯的問題，得到解決慢慢完成。</p>
+<p>這學期第一次學到coppeliasim，對於我來說可以說是非常困難，但一步一步詢問同組的組員，及他們的教導能慢慢找到方向，也漸漸知道究竟需要做些什麼事情，而coppeliasim這個軟體，我認為最主要厲害的地方是可以做非常多模擬，雖然感覺有點困難，但之後在網路上尋找影片，慢慢跟著影片一步做也能多少找到訣竅。就類似學到這個軟體的基本操作</p>
+<p></p>
