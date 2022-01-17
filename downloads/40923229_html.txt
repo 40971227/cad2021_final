@@ -17,7 +17,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/期末考繪圖.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB%E8%80%83%E7%B9%AA%E5%9C%96.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -47,7 +47,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/期末模擬.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB%E6%A8%A1%E6%93%AC.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -77,7 +77,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/期末延伸.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB%E5%BB%B6%E4%BC%B8.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -151,13 +151,15 @@ var winkVideoData = {
 <p></p>
 <p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/w3KZfU3ZfWU"></iframe></p>
 <p></p>
-<p style="padding-left: 30px;">Inventor<span>零件轉出後轉入 CoppeliaSim 操作影片&nbsp;</span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/7S2ul-gN-t0"></iframe></p>
-<p style="padding-left: 30px;"></p>
-<p style="padding-left: 30px;"><span>NX12</span><span>零件轉出後轉入 CoppeliaSim 操作影片&nbsp;</span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xkZgcIDhMGk"></iframe></p>
+<p>Inventor<span>零件轉出後轉入 CoppeliaSim 操作影片&nbsp;</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/7S2ul-gN-t0"></iframe></p>
+<p></p>
+<p><span>NX12</span><span>零件轉出後轉入 CoppeliaSim 操作影片&nbsp;</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xkZgcIDhMGk"></iframe></p>
 <p></p>
 <p><strong>CoppeliaSim</strong></p>
 <p></p>
-<p>CoppeliaSim模擬</p>
+<p>CoppeliaSim軸模擬(一二三軸)</p>
 <p>
 <script>// <![CDATA[
 var winkVideoData = {
@@ -171,7 +173,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/第一軸旋轉.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E7%AC%AC%E4%B8%80%E8%BB%B8%E6%97%8B%E8%BD%89.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -197,7 +199,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/二三軸旋轉.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E4%BA%8C%E4%B8%89%E8%BB%B8%E6%97%8B%E8%BD%89.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -229,7 +231,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/期末2零件.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB2%E9%9B%B6%E4%BB%B6.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -258,7 +260,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/期末2互換零件.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB2%E4%BA%92%E6%8F%9B%E9%9B%B6%E4%BB%B6.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
@@ -288,7 +290,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/期末2模擬.mp4" type="video/mp4" /></video>
+<source src="https://40923229.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB2%E6%A8%A1%E6%93%AC.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
