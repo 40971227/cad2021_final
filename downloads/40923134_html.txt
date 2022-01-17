@@ -1,7 +1,7 @@
-<h3>40923134</h3>
+﻿<h3>40923134</h3>
 <p>學習inventor與SolveSpace兩套新的cad軟體</p>
 <p>目前一般繪圖功能大致了解 組合零件的操作還很模糊</p>
-<p><img alt="" src="/images/Inventor_Af3M4wxgDJ.png" width="710" height="400"></p>
+<p><img alt="" src="https://40923134.github.io/cad2021_hw/images/Inventor_Af3M4wxgDJ.png" width="710" height="400"></p>
 <p></p>
 <p></p>
 <p>學習wink製作多張圖片組成之簡易動畫</p>
@@ -19,7 +19,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1550" height="850" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/1.mp4" type="video/mp4" /></video>
+<source src="https://40923134.github.io/cad2021_hw/downloads/1.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
@@ -46,7 +46,7 @@ var winkVideoData = {
 // ]]></script>
 </p>
 <div class="winkVideoContainerClass"><video width="1500" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
-<source src="./../downloads/W11.mp4" type="video/mp4" /></video>
+<source src="https://40923134.github.io/cad2021_hw/downloads/W11.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
 <div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
 <div class="winkVideoControlBarProgressLeftClass"></div>
