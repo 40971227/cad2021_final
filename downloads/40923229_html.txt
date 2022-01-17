@@ -1,6 +1,10 @@
 <h3>40923229</h3>
-<p>期末考繪圖</p>
+<p><strong>期末考1</strong></p>
 <p></p>
+<p>期末1繪圖</p>
+<p></p>
+<p></p>
+<p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -11,6 +15,7 @@ var winkVideoData = {
   },
 };
 // ]]></script>
+</p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
 <source src="./../downloads/期末考繪圖.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
@@ -26,9 +31,10 @@ var winkVideoData = {
 <p></p>
 <p></p>
 <p></p>
-<p>期末模擬</p>
+<p>期末1模擬</p>
 <p></p>
 <p></p>
+<p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -39,6 +45,7 @@ var winkVideoData = {
   },
 };
 // ]]></script>
+</p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
 <source src="./../downloads/期末模擬.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
@@ -54,9 +61,10 @@ var winkVideoData = {
 <p></p>
 <p></p>
 <p></p>
-<p>期末延伸</p>
+<p>期末1延伸</p>
 <p></p>
 <p></p>
+<p>
 <script>// <![CDATA[
 var winkVideoData = {
   dataVersion: 1,
@@ -67,6 +75,7 @@ var winkVideoData = {
   },
 };
 // ]]></script>
+</p>
 <div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
 <source src="./../downloads/期末延伸.mp4" type="video/mp4" /></video>
 <div class="winkVideoOverlayClass"></div>
@@ -83,5 +92,214 @@ var winkVideoData = {
 <p></p>
 <p></p>
 <p>心得</p>
-<p></p>
 <p>這學期在這門課學到很多新東西，上課用的Coppeliasim程式有點難度需要花時間去摸索，老師也有讓我們去自己分組討論並交換意見，雖然這個過程很辛苦但是自己慢慢學會之後覺得非常有成就感，謝謝老師跟同學的耐心教導。</p>
+<p></p>
+<p></p>
+<p><strong>Wink</strong></p>
+<p></p>
+<p><span>Google尋找 <strong>wink</strong>&nbsp;</span><span><strong>debugmode&nbsp;</strong></span></p>
+<p><span><strong><img caption="false" height="420" src="https://40923229.github.io/cad2021_hw/images/%E5%9C%961.jpg" width="420"></strong></span></p>
+<p><span>下載<strong>&nbsp;<strong>wink</strong><span><span>&nbsp;</span></span></strong></span></p>
+<p><span><strong><span><span><img caption="false" height="218" src="https://40923229.github.io/cad2021_hw/images/%E5%9C%962.jpg" width="513"></span></span></strong></span></p>
+<p><span>下載完點開<strong><span><span>&nbsp;<strong>winksetup</strong></span></span></strong><span>，按下<span>&nbsp;</span></span><strong><span><span><strong>I Agree</strong></span></span></strong></span></p>
+<p><span><strong><span><span><img caption="false" height="290" src="https://40923229.github.io/cad2021_hw/images/%E5%9C%963.jpg" width="658"></span></span></strong></span></p>
+<p><span>按<strong><span><span>&nbsp;<strong>Browse&nbsp;</strong></span></span></strong>將資料存在自己想存的位置，最後<strong><span><span><span>&nbsp;</span><strong>Install&nbsp;</strong></span></span></strong>就下載好了</span></p>
+<p><span><strong><span><span><span></span></span></span></strong></span></p>
+<p><img alt="" height="288" src="https://40923229.github.io/cad2021_hw/images/%E5%9C%964.jpg" width="421"></p>
+<p><span>點開&nbsp;<strong><span><span><span><strong>wink.exe</strong></span></span></span></strong></span></p>
+<p><span><strong><span><span><span><strong></strong></span></span></span></strong></span></p>
+<p><img alt="" height="548" src="https://40923229.github.io/cad2021_hw/images/%E5%9C%965.jpg" width="661"></p>
+<p>開啟後就可以使用<strong><span>&nbsp;</span>wink<span>&nbsp;</span></strong>製作影片</p>
+<p><strong><img caption="false" height="444" src="https://40923229.github.io/cad2021_hw/images/4848.PNG" width="819"></strong></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>VPN申請</strong></p>
+<p>首先先登入NFU-校務eCare</p>
+<ul>
+<li>左側點選(個人資訊及設定)。</li>
+<li>點選(SSL-VPN)連線申請。</li>
+<li>左側會出現申請須知，須知下會有個(我要申請)按下去。</li>
+<li>會出現下圖視窗，填入申請人姓名和E-mail，勾選研究用途，送出申請等待數日，如申請通過E-mail就會收到信件通知。</li>
+</ul>
+<p><img caption="false" height="270" src="https://40923229.github.io/cad2021_hw/images/Inked%E6%93%B7%E5%8F%96_LI.jpg" width="365"></p>
+<ul>
+<li>收到通過信件後，只要參照連結內操作下載登入就可以使用。<a href="https://nfucc.nfu.edu.tw/?p=17008">https://nfucc.nfu.edu.tw/?p=17008</a></li>
+</ul>
+<p><img caption="false" height="315" src="https://40923229.github.io/cad2021_hw/images/Inked%E6%93%B7%E5%8F%961_LI7.jpg" width="253"></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p><strong>CAD1&nbsp;Inventor</strong></p>
+<p>Inventor 緣起說明與介紹:</p>
+<p>Autodesk Inventor軟件是美國Autodesk公司於1999年底推出的三維可視化實體模擬軟件。<span><span>使用Autodesk Inventor可以創建三維模型<span><span>和二維工程圖、可以創建特徵、零件，還可以管理上千個零件和大型部件。Inventor 產品為 3D 機械設計、產品模擬、模具建立與設計溝通提供一套彈性且全方位的軟體。Inventor 能讓設計、視覺化及模擬產品，超越 3D 進化至數位原型製作。Inventor 產品符合成本效益且易學，為 3D 機械設計、CAD 生產力、設計溝通、產品模擬、佈線系統與鑄模設計提供一套彈性的軟體。</span></span></span></span></p>
+<p></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/2gv6YA7GLok"></iframe></p>
+<p></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/AG3f6Z0osJ0"></iframe></p>
+<p></p>
+<p></p>
+<p><strong>CAD2&nbsp;NX12</strong></p>
+<p>NX12 緣起說明與介紹:</p>
+<p>NX 設計工具可輕易地解決複雜的幾何資料及大型組立件。 NX 透過先進的模擬功能來處理最棘手的CAE 挑戰，大幅減少實體原型的需要。 此外，NX 更藉由最先進的工裝/模具與機械加工技術優勢，協助您提升製造水準。 NX 的開放式架構讓您得以透過數位產品開發流程隨時整合來自其他廠商的解決方案，保護現有的IT 投資效益。</p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/VKYqfuVc-tE"></iframe></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/w3KZfU3ZfWU"></iframe></p>
+<p></p>
+<p style="padding-left: 30px;">Inventor<span>零件轉出後轉入 CoppeliaSim 操作影片&nbsp;</span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/7S2ul-gN-t0"></iframe></p>
+<p style="padding-left: 30px;"></p>
+<p style="padding-left: 30px;"><span>NX12</span><span>零件轉出後轉入 CoppeliaSim 操作影片&nbsp;</span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/xkZgcIDhMGk"></iframe></p>
+<p></p>
+<p><strong>CoppeliaSim</strong></p>
+<p></p>
+<p>CoppeliaSim模擬</p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/第一軸旋轉.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/二三軸旋轉.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p></p>
+<p><strong>期末2考試</strong></p>
+<p></p>
+<p></p>
+<p>第一階段</p>
+<p><a href="https://drive.google.com/file/d/1XFBwy6KGMLeB0oVX2gJ605rRl-vFwSrn/view">https://drive.google.com/file/d/1XFBwy6KGMLeB0oVX2gJ605rRl-vFwSrn/view</a></p>
+<p></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/期末2零件.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p></p>
+<p>第二階段</p>
+<p><a href="https://drive.google.com/file/d/1cDGc9WWgCpLwrhf3nPl3u5Nie_-imWGD/view">https://drive.google.com/file/d/1cDGc9WWgCpLwrhf3nPl3u5Nie_-imWGD/view</a></p>
+<p></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/期末2互換零件.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p></p>
+<p>第三階段</p>
+<p><a href="https://drive.google.com/file/d/15ISPh4pmTBy7hE1VPgG3qKFPIzvDRw__/view">https://drive.google.com/file/d/15ISPh4pmTBy7hE1VPgG3qKFPIzvDRw__/view</a></p>
+<p></p>
+<p></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="./../downloads/期末2模擬.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p></p>
+<p><strong>心得</strong></p>
+<p>這學期已經接近尾聲了，在這門課中收穫非常多老師也很認真教學，從剛開始上課基本的都不會，經過幾個禮拜之後才慢慢跟上軌道追上同學的腳步，我在這門課中學到很多英文單字跟程式的應用及繪圖軟體的使用，還有Wink的錄製影片和CoppeliaSim的模擬，這些都對之後出社會如果要走這一塊都會很有幫助，最後謝謝老師的教導。</p>
