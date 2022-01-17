@@ -1,5 +1,7 @@
 <h3>40923110</h3>
+<p>第一題</p>
 <p><a href="https://drive.google.com/drive/u/1/folders/12rN5oJSjd3FV298F1bjZyzHPAUSy_nqd">圖檔</a></p>
-<p>心得:</p>
+<p>繪圖過程:<a href="https://www.youtube.com/watch?v=laZ4BB03qpY">https://www.youtube.com/watch?v=laZ4BB03qpY</a></p>
+<p><iframe width="956" height="538" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/laZ4BB03qpY" title="YouTube video player"></iframe></p>
+<p>心得:繪圖過程中沒遇到問題，零件未組裝</p>
 <div class="winkVideoControlBarProgressThumbClass"></div>
-<div class="winkVideoPlayOverlayClass"></div>
