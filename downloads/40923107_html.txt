@@ -1,10 +1,121 @@
 <h3>40923107</h3>
-<p>Final Project 佔學期成績 40%</p>
-<p><span style="background-color: #ffff99;">2a 與 2b 必須在 2022.01.06 上課之前完成 Final Project</span></p>
-<p><a href="https://github.com/mdecourse/cad2021/discussions/8">Final Project 具體項目成果回報區</a>將於 2021.12.09 開啟, 於 <span style="background-color: #ff99cc;">2022.01.05 22:00 關閉</span></p>
-<p>彈性製造系統場景設計與製作</p>
-<p>請從 <a href="https://github.com/mdecourse/scenes">https://github.com/mdecourse/scenes</a> 與 <a href="https://github.com/mdecourse/models">https://github.com/mdecourse/models</a> 中選擇場景或模型, 配合 <a href="https://drive.google.com/file/d/1xb1Es8N-FxeG10OSnLNDwwi_tXyNTP9t/view?usp=sharing">cad2021_textbook.pdf</a> (登入 @gm 帳號後下載) 教材中的內容, 自選製作與組立產品, 組合成一個 Flexible Manufacturing System 系統場景.</p>
-<p>彈性製造系統內容說明</p>
-<h4>範例:</h4>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/2qc0-yTXBts" title="YouTube video player"></iframe></p>
-<p><iframe width="560" height="315" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/PDSmRPh6TaM" title="YouTube video player"></iframe></p>
+<p><span style="background-color: #ff9900;">期末考_第一題</span></p>
+<p><span style="background-color: #ffcc00;"><span style="color: #000000;">繪製零件</span></span></p>
+<p>零件檔下載：</p>
+<p><a href="https://drive.google.com/file/d/1lNbQA7N7cuDQmtQpVhL6nkuDuf7WFbLg/view?usp=sharing">https://drive.google.com/file/d/1lNbQA7N7cuDQmtQpVhL6nkuDuf7WFbLg/view?usp=sharing</a></p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/WCZbprBwGww" title="YouTube video player"></iframe></p>
+<p></p>
+<p></p>
+<p></p>
+<p><img caption="false" height="430" src="https://40923107.github.io/cad2021_hw/images/part_1.png" width="350"></p>
+<p><img caption="false" height="473" src="https://40923107.github.io/cad2021_hw/images/part_2.png" width="350"></p>
+<p><img caption="false" height="570" src="https://40923107.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B63.png" width="350"></p>
+<p><img caption="false" height="386" src="https://40923107.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B64.png" width="350"></p>
+<p><img caption="false" height="693" src="https://40923107.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B65.png" width="350"></p>
+<p><img caption="false" height="235" src="https://40923107.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B66.png" width="350"></p>
+<p><img caption="false" height="321" src="https://40923107.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B67.png" width="350"></p>
+<p><img caption="false" height="276" src="https://40923107.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B68.png" width="350"></p>
+<p></p>
+<p></p>
+<p></p>
+<p><span style="background-color: #ffcc00;">匯入CoppeliaSIM</span></p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/B-f_8CIbWnQ" title="YouTube video player"></iframe></p>
+<p></p>
+<p><strong>期末考試第二題</strong></p>
+<p><span style="background-color: #ff99cc;">第一階段</span></p>
+<p>零件、組立檔案：<a href="https://drive.google.com/drive/folders/1Q2IpmDTDMqBpvGPNloMSmtJaa9ILkbmM?usp=sharing">https://drive.google.com/drive/folders/1Q2IpmDTDMqBpvGPNloMSmtJaa9ILkbmM?usp=sharing</a></p>
+<p></p>
+<p><span style="background-color: #ffcc99;">第二階段</span></p>
+<p>連桿機構互換 零組件：<a href="https://drive.google.com/drive/folders/1tQe4hipWvjyu_fTPH3S7yyyK3ZAznJuS?usp=sharing">https://drive.google.com/drive/folders/1tQe4hipWvjyu_fTPH3S7yyyK3ZAznJuS?usp=sharing</a></p>
+<p></p>
+<p>組立畫面</p>
+<p><img caption="false" height="660" src="https://40923107.github.io/cad2021_hw/images/mearm%E6%9C%9F%E6%9C%AB%E7%B5%84%E5%90%88.png" width="800"></p>
+<p></p>
+<p>組立過程</p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/GY9FunfinMA" title="YouTube video player"></iframe></p>
+<p></p>
+<p><span style="background-color: #ffff99;">第三階段</span></p>
+<p>CoppeliaSIM檔案：<a href="https://drive.google.com/drive/folders/1tQe4hipWvjyu_fTPH3S7yyyK3ZAznJuS?usp=sharing">https://drive.google.com/drive/folders/1tQe4hipWvjyu_fTPH3S7yyyK3ZAznJuS?usp=sharing</a></p>
+<p>_ _ _ _ _ _ _ _</p>
+<p>wink</p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+    "2": [
+      { type: "gotoframe", rect: { x: 375, y: 148, width: 60, height: 24 }, target: 3 },
+    ],
+    "49": [
+      { type: "gotoframe", rect: { x: 327, y: 150, width: 60, height: 24 }, target: 50 },
+    ],
+    "103": [
+      { type: "gotoframe", rect: { x: 799, y: 643, width: 60, height: 24 }, target: 104 },
+      { type: "gotoframe", rect: { x: 723, y: 643, width: 60, height: 24 }, target: 49 },
+    ],
+    "223": [
+      { type: "gotoframe", rect: { x: 156, y: 249, width: 60, height: 24 }, target: 103 },
+      { type: "gotoframe", rect: { x: 229, y: 248, width: 60, height: 24 }, target: 224 },
+    ],
+    "345": [
+      { type: "gotoframe", rect: { x: 968, y: 317, width: 60, height: 24 }, target: 223 },
+      { type: "gotoframe", rect: { x: 1054, y: 317, width: 60, height: 24 }, target: 346 },
+    ],
+    "529": [
+      { type: "gotoframe", rect: { x: 593, y: 516, width: 60, height: 24 }, target: 345 },
+      { type: "gotoframe", rect: { x: 678, y: 515, width: 60, height: 24 }, target: 530 },
+    ],
+    "587": [
+      { type: "gotoframe", rect: { x: 921, y: 416, width: 60, height: 24 }, target: 529 },
+      { type: "gotoframe", rect: { x: 996, y: 414, width: 60, height: 24 }, target: 588 },
+    ],
+    "622": [
+      { type: "gotoframe", rect: { x: 755, y: 454, width: 60, height: 24 }, target: 587 },
+      { type: "gotoframe", rect: { x: 833, y: 453, width: 60, height: 24 }, target: 623 },
+    ],
+    "765": [
+      { type: "gotoframe", rect: { x: 1236, y: 295, width: 60, height: 24 }, target: 766 },
+      { type: "gotoframe", rect: { x: 1156, y: 297, width: 60, height: 24 }, target: 622 },
+    ],
+    "881": [
+      { type: "gotoframe", rect: { x: 471, y: 172, width: 60, height: 24 }, target: 765 },
+      { type: "gotoframe", rect: { x: 550, y: 169, width: 60, height: 24 }, target: 882 },
+    ],
+    "1128": [
+      { type: "gotoframe", rect: { x: 1025, y: 592, width: 60, height: 24 }, target: 881 },
+      { type: "gotoframe", rect: { x: 1097, y: 593, width: 60, height: 24 }, target: 1129 },
+    ],
+    "1449": [
+      { type: "gotoframe", rect: { x: 1148, y: 256, width: 60, height: 24 }, target: 1128 },
+      { type: "gotoframe", rect: { x: 1230, y: 256, width: 60, height: 24 }, target: 1450 },
+    ],
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1344" height="756" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923107.github.io/cad2021_hw/downloads/%E6%9C%9F%E6%9C%AB%20%E5%8F%8D%E8%A3%9D%20%E5%AE%8C%E6%88%902%20coppeliaSIM.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>__________________</p>
+<p><span style="background-color: #00ff00;">HW1_mearm</span></p>
+<p>下載檔案：<a href="https://drive.google.com/drive/folders/1Q2IpmDTDMqBpvGPNloMSmtJaa9ILkbmM?usp=sharing">https://drive.google.com/drive/folders/1Q2IpmDTDMqBpvGPNloMSmtJaa9ILkbmM?usp=sharing</a></p>
+<p>第一軸</p>
+<p><iframe width="1104" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/EUFZQ3zHoX8" title="YouTube video player"></iframe></p>
+<p></p>
+<p>第二軸</p>
+<p><iframe width="1159" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/mB1xcg99jus" title="YouTube video player"></iframe></p>
+<p></p>
+<p>第三軸</p>
+<p><iframe width="1158" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/JRR9yoj6hJw" title="YouTube video player"></iframe></p>
+<p>三軸組立、作動完成</p>
+<p><iframe width="1158" height="621" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/M_8JTl98g8M" title="YouTube video player"></iframe></p>

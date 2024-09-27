@@ -1,0 +1,56 @@
+<h3>40923238</h3>
+<p>Final Project</p>
+<p>期末圖檔:<a href="https://drive.google.com/drive/folders/1K2CY5R-ee5o18aM83hWidVg9gm9aG1Py?usp=sharing">https://drive.google.com/drive/folders/1K2CY5R-ee5o18aM83hWidVg9gm9aG1Py?usp=sharing</a></p>
+<p>coppeliaSim 運動製作</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/VebSUnqPHlw"></iframe></p>
+<p><span>coppeliaSim 過程</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/6dcwo1fAr_c"></iframe></p>
+<p>cad組合</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/8e4EbCW-VvQ"></iframe></p>
+<p>cad繪製</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/8r9gvFYovkE"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/GnNtO3yHD9E"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/fyvDGTS4J9Y"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/4QUVNBRRrnE"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/OVvbt90kDQ4"></iframe></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/EJuEI10i7Bs"></iframe></p>
+<p>meArm</p>
+<p>CAD組合<iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/3rkzGpYcoAA"></iframe></p>
+<p><span>CoppeliaSim 製作</span></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/KYEQSzQNfIU"></iframe></p>
+<p><span>CoppeliaSim 運動</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/8y-fFkt2oRE"></iframe></span></p>
+<p><span></span><span>心得:這學期的學習內容讓我感覺跟一年級上的很不一樣，感覺上的不是程式反而是繪圖課，雖然有些軟體已經使用很長一段時間了，但依舊有陌生的地方，尤其<span>CoppeliaSim，真的很難搞懂為什麼這裡不會動，這裡為什麼要加這個，為什麼這裡一動就骨折，最後雖然簡單的連桿結構有辦法完成，但meArm的部分還是有會有上述的困難，但最後已盡最大的能力做成這樣了。</span></span></p>
+<p><span><span>meArm3D圖、組合圖檔案:<a href="https://drive.google.com/drive/folders/1lDRuEIcUa6UfEiebnXA37pRnjsYGfxSL?usp=sharing">https://drive.google.com/drive/folders/1lDRuEIcUa6UfEiebnXA37pRnjsYGfxSL?usp=sharing</a></span></span></p>
+<p>期末考試</p>
+<p>3D圖、組合圖檔案:<a href="https://drive.google.com/drive/folders/1lDRuEIcUa6UfEiebnXA37pRnjsYGfxSL?usp=sharing">https://drive.google.com/drive/folders/1lDRuEIcUa6UfEiebnXA37pRnjsYGfxSL?usp=sharing</a></p>
+<p></p>
+<p>第一階段:<a href="https://drive.google.com/file/d/1Qt9G12NVyyUy1WAP_0rUAKz9l52VaBUg/view?usp=sharing">https://drive.google.com/file/d/1Qt9G12NVyyUy1WAP_0rUAKz9l52VaBUg/view?usp=sharing</a></p>
+<p>第二階段:<a href="https://drive.google.com/file/d/1XNmnV-m_wd6z0w_yQk_pxecouM-fNfmM/view?usp=sharing">https://drive.google.com/file/d/1XNmnV-m_wd6z0w_yQk_pxecouM-fNfmM/view?usp=sharing</a></p>
+<p>第三階段:<a href="https://drive.google.com/file/d/1C5O4BcMyiY_KuuvvKlgyjIqv_INKyoZn/view?usp=sharing">https://drive.google.com/file/d/1C5O4BcMyiY_KuuvvKlgyjIqv_INKyoZn/view?usp=sharing</a></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/8y-fFkt2oRE"></iframe></p>
+<p>----------------------------------------------------------------------------</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1280" height="720" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923238.github.io/cad2021_hw/downloads/40923238_final.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得:這學期的學習內容讓我感覺跟一年級上的很不一樣，感覺上的不是程式反而是繪圖課，雖然有些軟體已經使用很長一段時間了，但依舊有陌生的地方，尤其<span>CoppeliaSim，真的很難搞懂為什麼這裡不會動，這裡為什麼要加這個，為什麼這裡一動就骨折，最後雖然簡單的連桿結構有辦法完成，但meArm的部分還是有會有上述的困難，但最後已盡最大的能力做成這樣了。</span></p>

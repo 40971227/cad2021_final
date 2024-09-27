@@ -1,0 +1,111 @@
+<h3>40923247</h3>
+<p>期末考試:題目一 coppeliasim作動影片及零件下載(<a href="https://drive.google.com/drive/folders/1DyqKDfEJArc3QWH54o8-IWLq8x_AXqMK?usp=sharing">下載連結</a>)</p>
+<p><iframe width="560" height="315" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/QrrLK_Tmht8"></iframe></p>
+<p><span>期末考試:題目二 coppeliasim wink影片及零件下載(<a href="https://drive.google.com/drive/folders/1b-quubJ0vNE8ukWXE1xXz2Es0L0sqBsS?usp=sharing">下載連結</a>)</span></p>
+<p><span></span></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923247.github.io/cad2021_hw/downloads/02.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p>第一階段:<span>meArm Robot 零件與組立檔案下載連結:</span></p>
+<p><a href="https://drive.google.com/file/d/1TGW8IfmLc028KS_4ZKitZMdP5zABuzI-/view?usp=sharing">https://drive.google.com/file/d/1TGW8IfmLc028KS_4ZKitZMdP5zABuzI-/view?usp=sharing</a></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923247.github.io/cad2021_hw/downloads/60.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p>第二階段:<span>修改第一階段個人所完成的 meArm 組立檔案, 將兩側連桿機構互換, 亦即將帶有三角形連桿的機構與另一方機構互相對調.&nbsp;</span></p>
+<p><span>零件與組立檔案下載連結:</span></p>
+<p><a href="https://drive.google.com/file/d/1GQRilb1S26_GUgMpi97wQGY41qjF254G/view?usp=sharing">https://drive.google.com/file/d/1GQRilb1S26_GUgMpi97wQGY41qjF254G/view?usp=sharing</a></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923247.github.io/cad2021_hw/downloads/61.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p><span>第三階段: 請將第二階段新完成的 meArm 零組件轉入 CoppeliaSim 後, 利用 Slider 控制其中的各轉動軸, 完成後請以 Wink 影片呈現製作過程</span></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923247.github.io/cad2021_hw/downloads/62.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>----------------------------------</p>
+<p>心得:這次的期末測驗，在畫圖方面都蠻順利的，但用coppeliasim軟體在操作使用上一直都有問題，不過有了同學的幫忙，才能慢慢了解操作方式，這學期學到了很多新的軟體，希望自己能熟悉新軟體的操作方式。</p>

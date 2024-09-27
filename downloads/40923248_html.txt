@@ -1,0 +1,96 @@
+<h3>40923248</h3>
+<p>W11</p>
+<p><span>影片:</span></p>
+<p>Onshape 繪製過程(<a href="https://youtu.be/278AflGs51U">youtube</a>)</p>
+<p>檔案下載：<span>&nbsp;</span><a href="https://drive.google.com/file/d/1UPLr4LY-QKgNsimd39eAnjhsCAsW72yc/view?usp=sharing">https://drive.google.com/file/d/1UPLr4LY-QKgNsimd39eAnjhsCAsW72yc/view?usp=sharing</a></p>
+<p><iframe width="1280" height="720" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/278AflGs51U"></iframe></p>
+<p><span>Onshape 運動過程(</span><a href="https://youtu.be/XBS_5W4_ggs">youtube</a><span>)</span></p>
+<p><span><iframe width="1280" height="720" allowfullscreen="allowfullscreen" data-mce-fragment="1" src="https://www.youtube.com/embed/XBS_5W4_ggs"></iframe></span></p>
+<p></p>
+<p>題目一</p>
+<p><span>馬達驅動Jansen's linkage影片(wink</span><span><span>)</span></span></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923248.github.io/cad2021_hw/downloads/%E5%98%89%E6%98%8E%E7%9C%BC.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>---------------------------------------------------------------------------------------------------------------</p>
+<p><iframe width="1344" height="756" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/vKfJ8TJbpOQ"></iframe></p>
+<p>心得：透過小組組員的幫忙與協助，讓我學習到不少東西，我認為繪圖不難，但是要加上運動，就需要多點心力了，很感謝老師的指導，希望下學習也可以學習到更多程式。</p>
+<p>檔案下載：<a href="https://drive.google.com/file/d/1wHikB8w_FRgjH4TMKHo3ZaLcmK-sfgZt/view?usp=sharing">https://drive.google.com/file/d/1wHikB8w_FRgjH4TMKHo3ZaLcmK-sfgZt/view?usp=sharing</a></p>
+<p>延伸</p>
+<p>檔案下載：<a href="https://drive.google.com/file/d/1H1eJWUNGGbfotuQNB2ny4rEW2Pdy_A3X/view?usp=sharing">https://drive.google.com/file/d/1H1eJWUNGGbfotuQNB2ny4rEW2Pdy_A3X/view?usp=sharing</a></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923248.github.io/cad2021_hw/downloads/%E5%96%AC%E6%B2%BB.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>
+<p>期末考試</p>
+<p>取各班學員自評學期成績與學習心得及自評依據.<br>分為三個階段檢驗各學員學習成果: (請先在個人作業網頁中加入一個標題為"期末考試"的 H1 頁面, 將下列各階段內容放入後, 再 Pull Requests 至 cad2021_final 倉儲, 並由各組組長將內容納入).<br>第一階段: 請將自己所完成繪製的 meArm Robot 零件與組立檔案畫面呈現在網頁中, 並將所有零件與組立檔案壓縮成"學號_final.zip" 送到個人的 @gm 帳號 GDrive, 並將連結轉為公開下載. (若採用 Onshape 請將零組件繪圖連結設為公開分享後, 放入頁面).<br>第二階段: 請修改第一階段個人所完成的 meArm 組立檔案, 將兩側連桿機構互換, 亦即將帶有三角形連桿的機構與另一方機構互相對調. 完成後, 請在網頁中呈現所完成的組立圖畫面, 並將零組件檔案壓縮成"學號_final_stage2.zip" 送到個人的 @gm 帳號 GDrive, 並將連結轉為公開下載. (若採用 Onshape 請將零組件繪圖連結設為公開分享後, 放入頁面).<br>第三階段: 請將第二階段新完成的 meArm 零組件轉入 CoppeliaSim 後, 利用 Slider 控制其中的各轉動軸, 完成後請以 Wink 影片呈現製作過程, 並將"學號_final.ttt" 檔案壓縮為"學號_final_ttt.zip" 送到個人的 @gm 帳號 GDrive, 並將連結轉為公開下載.<br>以上各 .zip 檔案完成後, 必須將能公開下載的連結放入個人作業網站與 cad2021_final 倉儲中.<br>完成上述步驟後, 請將相關連結在本討論區回報, 並提供本期末考式學習心得.</p>
+<p><span>心得:</span></p>
+<p><span>這一學期上了老師的課讓我學會很多，需要重過去的python加上現在學到的製圖軟體，運動模擬程式，本來就相當複雜，這門課學到的新東西又增加又難度，導自需要增加時間來學習，但有老師的細心講解，與分組組長組員們的協助，才讓東西輕鬆不少，雖然我這學期耗不少時間用懂，但還是有美中不足的部分，請老師體諒，下學期我一定更加用功，祝老師新年快樂，萬事如意。</span></p>
+<p><span>第一階段：<a href="https://drive.google.com/file/d/1quTfy7Rwx7dwTvsPUnOOP4f6qxZXjrMK/view?usp=sharing">https://drive.google.com/file/d/1quTfy7Rwx7dwTvsPUnOOP4f6qxZXjrMK/view?usp=sharing</a></span></p>
+<p><span>第二階段：<a href="https://drive.google.com/file/d/1bew3zuhzd1gQNLkvRrvmdDHJRF2p1OGK/view?usp=sharing">https://drive.google.com/file/d/1bew3zuhzd1gQNLkvRrvmdDHJRF2p1OGK/view?usp=sharing</a></span></p>
+<p><span></span><img caption="false" height="315" src="https://40923248.github.io/cad2021_hw/images/%E6%93%B7%E5%8F%96.png" width="538"></p>
+<p><img caption="false" height="315" src="https://40923248.github.io/cad2021_hw/images/03.png" width="538"></p>
+<p></p>
+<p>第三階段：</p>
+<script>// <![CDATA[
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1200" height="800" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923248.github.io/cad2021_hw/downloads/%E6%B4%BE%E5%A4%A7%E6%98%9F.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p></p>

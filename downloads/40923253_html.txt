@@ -1,6 +1,30 @@
 <h3>40923253</h3>
-<p><b>SolidWorks</b><span>是</span><a href="https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%B4%A2%E7%B3%BB%E7%BB%9F" title="達梭系統">達梭系統</a><span>（Dassault Systemes S.A.）旗下的SolidWorks公司開發的，運行在</span><a class="mw-redirect" href="https://zh.wikipedia.org/wiki/%E5%BE%AE%E8%BD%AFWindows" title="微軟Windows">微軟Windows</a><span>平台下的3D機械</span><a href="https://zh.wikipedia.org/wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%BE%85%E5%8A%A9%E8%AE%BE%E8%AE%A1" title="計算機輔助設計">CAD</a><span>軟體。SolidWorks是熱門的CAD軟體之一</span><sup class="reference" id="cite_ref-solidworks_fact_sheet_2011_2-0"><a href="https://zh.wikipedia.org/wiki/SolidWorks#cite_note-solidworks_fact_sheet_2011-2">[2]</a></sup><span>：截至2011年第一季度，全球約有150多萬工程師，設計師和約15萬家公司是SolidWorks的用戶。2010年其總收入達到4.17億美元。</span><sup class="reference" id="cite_ref-solidworks_fact_sheet_2011_2-1"><a href="https://zh.wikipedia.org/wiki/SolidWorks#cite_note-solidworks_fact_sheet_2011-2">[2]</a></sup><span>台灣地區總代理為</span><a class="new" href="https://zh.wikipedia.org/w/index.php?title=%E5%AF%A6%E5%A8%81%E5%9C%8B%E9%9A%9B&amp;action=edit&amp;redlink=1" title="實威國際（頁面不存在）">實威國際</a><span>。</span></p>
-<p><span>SolidWorks公司成立於1993年12月，其總部設在<a class="mw-redirect" href="https://zh.wikipedia.org/wiki/%E7%BE%8E%E5%9C%8B" title="美國">美國</a><a href="https://zh.wikipedia.org/wiki/%E9%BA%BB%E5%B7%9E" title="麻州">麻州</a><a class="new" href="https://zh.wikipedia.org/w/index.php?title=%E5%BA%B7%E5%85%8B%E7%88%BE%E9%83%A1&amp;action=edit&amp;redlink=1" title="康克爾郡（頁面不存在）">康克爾郡</a><span>，西元1995年發表其第一款產品</span><b>SolidWorks 95</b><span>，1997年被</span><a href="https://zh.wikipedia.org/wiki/%E8%BE%BE%E7%B4%A2%E7%B3%BB%E7%BB%9F" title="達梭系統">達梭系統</a><span>併購，SolidWorks公司現在是達梭系統的子公司。</span></span></p>
-<p>CAD1 指各學員所分配到的第一套參數式 CAD 套件, 其中包括 Solidworks, Inventor, NX, Onshape 與 Solvespace.</p>
-<p>CAD1 緣起說明與介紹</p>
-<p>請不要直接從找到的 CAD1 套件說明複製貼上, 而是應該要看完各種參考資料後, 重新打字彙整.</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/VcqnFekgNq4"></iframe></p>
+<p></p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/MROJneTHvXc"></iframe></p>
+<p></p>
+<p></p>
+<p>期末考第一題延伸:</p>
+<p><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/9_A8ZpOm8Ps"></iframe></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass">
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><span></span></p>
+<p><span>1/13 期末考</span></p>
+<p><span><iframe width="560" height="314" allowfullscreen="allowfullscreen" src="//www.youtube.com/embed/AkTfSM60qk8"></iframe></span></p>
+<div class="winkVideoContainerClass">
+<div class="winkVideoControlBarClass">
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>心得</p>
+<p>第一階段:零件畫好後，組裝後即沒問題。</p>
+<p>第二階段:看過討論區後依然不會，跟同學討論有會一點，之後是請教同學。</p>
+<p>第三階段:看過所有同學的問題點，再慢慢找尋自己出錯的問題，得到解決慢慢完成。</p>
+<p>這學期第一次學到coppeliasim，對於我來說可以說是非常困難，但一步一步詢問同組的組員，及他們的教導能慢慢找到方向，也漸漸知道究竟需要做些什麼事情，而coppeliasim這個軟體，我認為最主要厲害的地方是可以做非常多模擬，雖然感覺有點困難，但之後在網路上尋找影片，慢慢跟著影片一步做也能多少找到訣竅。就類似學到這個軟體的基本操作</p>
+<p></p>

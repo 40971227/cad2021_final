@@ -1,0 +1,273 @@
+<!DOCTYPE html><html>
+        <head>
+        <title>2021 電腦輔助設計實習課程期末評分網站</title>
+        <meta charset="utf-8">
+<meta property="head" content="H3">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700,900" rel="stylesheet">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/icomoon/style.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/magnific-popup.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/jquery-ui.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.carousel.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/owl.theme.default.min.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/bootstrap-datepicker.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/fonts/flaticon/font/flaticon.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/aos.css">
+        <link rel="stylesheet" href="./../cmsimde/static/chimper/css/style.css">
+        <link rel="shortcut icon" href="./../cmsimde/static/favicons.png">
+        
+        <style type='text/css'>
+            .site-section {
+            background-color: #FFFF;
+            padding: 40px 40px;
+            }
+            body > div > div.dropdown.open {
+                display: block;
+            }
+        </style>
+    
+        <!-- <script src="./../cmsimde/static/jquery.js"></script> -->
+        <!-- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script> -->
+        <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/normalize.min.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch_set.js"></script>
+        <script src="tipuesearch_content.js"></script>
+        <link rel="stylesheet" href="./../cmsimde/static/tipuesearch/css/tipuesearch.css">
+        <script src="./../cmsimde/static/tipuesearch/tipuesearch.js"></script>
+        <!-- for Wink3 -->
+        <link rel="stylesheet" type="text/css" href="./../cmsimde/static/winkPlayer.css" />
+        <script type="text/javascript" src="./../cmsimde/static/winkPlayer.js"></script>
+        <script>
+            /* original tipuesearch
+            $(document).ready(function() {
+                 $('#tipue_search_input').tipuesearch();
+            });
+            */
+            // customed doSearch
+            function doSearch() {
+                $('#tipue_search_input').tipuesearch({
+                    newWindow: true, 
+                    minimumLength: 2,
+                    wholeWords: false, // for search 中文
+                });
+            }
+            $(document).ready(doSearch);
+        </script>
+        
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shCore.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushBash.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDiff.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJScript.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushJava.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPython.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushSql.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushHaxe.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushXml.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPhp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushPowerShell.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushLua.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCpp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCss.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushCSharp.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushDart.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/syntaxhighlighter/shBrushRust.js"></script>
+<link type="text/css" rel="stylesheet" href="./../cmsimde/static/syntaxhighlighter/css/shCoreDefault.css"/>
+<script type="text/javascript">SyntaxHighlighter.all();</script>
+<!-- 暫時不用
+<script src="./../cmsimde/static/fengari-web.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/Cango-13v08-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/CangoAxes-4v01-min.js"></script>
+<script type="text/javascript" src="./../cmsimde/static/gearUtils-05.js"></script>
+-->
+<!-- for Brython 暫時不用
+<script src="https://scrum-3.github.io/web/brython/brython.js"></script>
+<script src="https://scrum-3.github.io/web/brython/brython_stdlib.js"></script>
+-->
+<style>
+img.add_border {
+    border: 3px solid blue;
+}
+</style>
+
+</head>
+<body>
+<div class='container-fluid'><nav>
+        
+    <div class="site-wrap">
+
+    <div class="site-mobile-menu">
+      <div class="site-mobile-menu-header">
+        <div class="site-mobile-menu-close mt-3">
+          <span class="icon-close2 js-menu-toggle"></span>
+        </div>
+      </div>
+      <div class="site-mobile-menu-body"></div>
+    </div>
+    
+            <header class="site-navbar py-4 bg-white" role="banner">
+              <div class="container-fluid">
+                <div class="row align-items-center">
+                <h1>2021 電腦輔助設計實習課程期末評分網站</h1>
+                <div class="pl-4">
+                    <form>
+                    <input type="text" placeholder="Search" name="q" id="tipue_search_input" pattern=".{2,}" title="At least 2 characters" required>
+                    </form>
+                </div>
+                  <!-- <div class="col-11 col-xl-2">
+                    <h1 class="mb-0 site-logo"><a href="index.html" class="text-black h2 mb-0">2021 電腦輔助設計實習課程期末評分網站</a></h1> 
+                  </div>
+                  -->
+                  <div class="col-12 col-md-10 d-none d-xl-block">
+                    <nav class="site-navigation position-relative text-right" role="navigation">
+    <ul class='site-menu js-clone-nav mr-auto d-none d-lg-block'>
+                        <li class="active has-children"><a href="index.html">Home</a>
+                        <ul class="dropdown">
+                            <li><a href="sitemap.html">Site Map</a></li>
+                            <li><a href="./../reveal/index.html">reveal</a></li>
+                            <li><a href="./../blog/index.html">blog</a></li>
+                        </ul>
+                      </li>
+                     <li><a href='About.html'>About</a><li><a href='Final Project.html'>Final Project</a><li><a href='Notice.html'>Notice</a><li class='has-children'><a href='2a.html'>2a</a><ul class='dropdown'><li class='has-children'><a href='2ag1.html'>2ag1</a><ul class='dropdown'><li><a href='40923156.html'>40923156</a><li><a href='40923113.html'>40923113</a><li><a href='40923108.html'>40923108</a><li><a href='40923103.html'>40923103</a><li><a href='40923101.html'>40923101</a></li></ul><li class='has-children'><a href='2ag2.html'>2ag2</a><ul class='dropdown'><li><a href='40923110.html'>40923110</a><li><a href='40923107.html'>40923107</a><li><a href='40923106.html'>40923106</a><li><a href='40923105.html'>40923105</a><li><a href='40923104.html'>40923104</a><li><a href='40923102.html'>40923102</a></li></ul><li class='has-children'><a href='2ag3.html'>2ag3</a><ul class='dropdown'><li><a href='40971134.html'>40971134</a><li><a href='40923154.html'>40923154</a><li><a href='40923148.html'>40923148</a><li><a href='40923119.html'>40923119</a><li><a href='40923109.html'>40923109</a></li></ul><li class='has-children'><a href='2ag4.html'>2ag4</a><ul class='dropdown'><li><a href='40923146.html'>40923146</a><li><a href='40923129.html'>40923129</a><li><a href='40923122.html'>40923122</a><li><a href='40923116.html'>40923116</a><li><a href='40923115.html'>40923115</a><li><a href='40923114.html'>40923114</a><li><a href='40923111.html'>40923111</a></li></ul><li class='has-children'><a href='2ag5.html'>2ag5</a><ul class='dropdown'><li><a href='40923151.html'>40923151</a><li><a href='40923142.html'>40923142</a><li><a href='40923137.html'>40923137</a><li><a href='40923123.html'>40923123</a></li></ul><li class='has-children'><a href='2ag6.html'>2ag6</a><ul class='dropdown'><li><a href='40923128.html'>40923128</a><li><a href='40923126.html'>40923126</a><li><a href='40923125.html'>40923125</a><li><a href='40923120.html'>40923120</a></li></ul><li class='has-children'><a href='2ag7.html'>2ag7</a><ul class='dropdown'><li><a href='40923135.html'>40923135</a><li><a href='40923134.html'>40923134</a><li><a href='40923133.html'>40923133</a><li><a href='40923131.html'>40923131</a></li></li></ul></ul><li class='has-children'><a href='2b.html'>2b</a><ul class='dropdown'><li class='has-children'><a href='2bg1.html'>2bg1</a><ul class='dropdown'><li><a href='40923235.html'>40923235</a><li><a href='40923231.html'>40923231</a><li><a href='40923230.html'>40923230</a><li><a href='40923217.html'>40923217</a><li><a href='40923210.html'>40923210</a><li><a href='40923208.html'>40923208</a><li><a href='40923205.html'>40923205</a><li><a href='40923201.html'>40923201</a></li></ul><li class='has-children'><a href='2bg2.html'>2bg2</a><ul class='dropdown'><li><a href='40923228.html'>40923228</a><li><a href='40923226.html'>40923226</a><li><a href='40923209.html'>40923209</a><li><a href='40923207.html'>40923207</a><li><a href='40923204.html'>40923204</a><li><a href='40923203.html'>40923203</a></li></ul><li class='has-children'><a href='2bg3.html'>2bg3</a><ul class='dropdown'><li><a href='40923252.html'>40923252</a><li><a href='40923249.html'>40923249</a><li><a href='40923248.html'>40923248</a><li><a href='40923247.html'>40923247</a><li><a href='40923245.html'>40923245</a><li><a href='40923216.html'>40923216</a><li><a href='40923206.html'>40923206</a></li></ul><li class='has-children'><a href='2bg4.html'>2bg4</a><ul class='dropdown'><li><a href='40923250.html'>40923250</a><li><a href='40923243.html'>40923243</a><li><a href='40923236.html'>40923236</a><li><a href='40923227.html'>40923227</a><li><a href='40923223.html'>40923223</a><li><a href='40923221.html'>40923221</a><li><a href='40923218.html'>40923218</a><li><a href='40923211.html'>40923211</a></li></ul><li class='has-children'><a href='2bg5.html'>2bg5</a><ul class='dropdown'><li><a href='40923253.html'>40923253</a><li><a href='40923251.html'>40923251</a><li><a href='40923237.html'>40923237</a><li><a href='40923234.html'>40923234</a><li><a href='40923229.html'>40923229</a><li><a href='40923212.html'>40923212</a></li></ul><li class='has-children'><a href='2bg6.html'>2bg6</a><ul class='dropdown'><li><a href='40923246.html'>40923246</a><li><a href='40923241.html'>40923241</a><li><a href='40923232.html'>40923232</a><li><a href='40923225.html'>40923225</a><li><a href='40723217.html'>40723217</a></li></ul><li class='has-children'><a href='2bg7.html'>2bg7</a><ul class='dropdown'><li><a href='40923240.html'>40923240</a><li><a href='40923238.html'>40923238</a><li><a href='40923233.html'>40923233</a><li><a href='40923224.html'>40923224</a><li><a href='40923220.html'>40923220</a></li></ul><li class='has-children'><a href='2bg8.html'>2bg8</a><ul class='dropdown'><li><a href='40971227.html'>40971227</a><li><a href='40871106.html'>40871106</a><li><a href='40823122.html'>40823122</a><li><a href='40823117.html'>40823117</a><li><a href='40823115.html'>40823115</a></li>
+                      </ul>
+                </nav>
+              </div>
+              <div class="d-inline-block d-xl-none ml-md-0 mr-auto py-3" style="position: relative; top: 3px;"><a href="#" class="site-menu-toggle js-menu-toggle text-black"><span class="icon-menu h3"></span></a></div>
+              </div>
+
+            </div>
+          </div>
+          
+        </header>
+    <div id="tipue_search_content">40923247 << <a href='40923247.html'>Previous</a> <a href='40923216.html'>Next</a> >> 40923216<br /><h1>40923245</h1>
+<p><span style="color: #ff6600;">W11</span></p>
+<p>四連桿零件尺寸圖:<a href="https://drive.google.com/file/d/1U9BLFsPTiLHcdEjrS513FXmUpSrqOyGJ/view?usp=sharing">連結</a></p>
+<p><img caption="false" height="472" src="https://40923245-1.github.io/cad2021_hw/images/%E5%9B%9B%E9%80%A3%E6%A1%BF%E5%9C%96.png" width="429"/></p>
+<p>四連桿零件+組合(ONS):<a href="https://drive.google.com/drive/folders/1HZ9oM4-pZYsd_FvlK7rnvQlw5WNL93wq?usp=sharing">連結</a></p>
+<p>四連桿作動(Coppeliasim):</p>
+<p><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/o0Iq8yipCas" width="560"></iframe></p>
+<p><span style="color: #ff6600;">W13</span></p>
+<script>
+var winkVideoData = {
+dataVersion: 1,
+frameRate: 20,
+buttonFrameLength: 10,
+buttonFrameOffset: 5,
+frameStops: {
+},
+};
+</script>
+<div class="winkVideoContainerClass"><video class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData" height="800" width="1200">
+<source src="https://40923245-1.github.io/cad2021_hw/downloads/%E9%9B%B6%E4%BB%B6.mp4" type="video/mp4"/></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p><span style="color: #ff6600;">期末1</span></p>
+<p>Onshape零件繪製+組裝</p>
+<p><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/VE03YEsTj9w" width="560"></iframe></p>
+<p><span>CoppeliaSim作動</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/-wkhHOzM80s" width="560"></iframe></span></p>
+<p>心得:這次的功課學到了如何運用CoppeliaSim及裡面的Dummy，在不太熟悉的情況下問了班上實力較強的同學以及組長，幫助了我許多，希望之後的我能夠越來越順利並且熟能生巧。也因為這次的功課使我更加熟悉Onshape</p>
+<p><span style="color: #ff6600;">期末1延伸</span></p>
+<p><span>Onshape零件繪製(零件圖+繪製過程):</span></p>
+<p><span><img caption="false" height="612" src="https://40923245-1.github.io/cad2021_hw/images/%E9%80%A3%E6%A1%BF%E5%9C%96.png" width="494"/></span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/p2UZBHN5Ie8" width="560"></iframe></span></p>
+<p><span></span></p>
+<p><span>零件組裝:</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/KLoDNQDgsd0" width="560"></iframe></span></p>
+<p><span></span></p>
+<p><span></span></p>
+<p><span>Coppeliasim作動:</span></p>
+<p><span><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/Ds0PBMtLm4w" width="560"></iframe></span></p>
+<p><span>心得:這件零件我比上次更佳的熟練操作方法，希望日後能循序漸進地將所有作品完成</span></p>
+<p><span style="color: #ff6600;">期末2</span></p>
+<p>第一階段:零件繪製</p>
+<p><a href="https://cad.onshape.com/documents/45faf1df255a7c7c0474e01f/w/8f7a9ec1ddfd4df2941899a7/e/2b483d91f9f5267dcbe94d88">https://cad.onshape.com/documents/45faf1df255a7c7c0474e01f/w/8f7a9ec1ddfd4df2941899a7/e/2b483d91f9f5267dcbe94d88</a></p>
+<p><a href="https://cad.onshape.com/documents/13e5c3a0a8d6b2686b0e6778/w/5fb78cbab9c77f829bed4233/e/59ee08deb20d884bcfb0ac24">https://cad.onshape.com/documents/13e5c3a0a8d6b2686b0e6778/w/5fb78cbab9c77f829bed4233/e/59ee08deb20d884bcfb0ac24</a></p>
+<p><a href="https://cad.onshape.com/documents/0ea61102b356df2772bde28d/w/cb32f3078e2b71157fe7bb69/e/784d895a4959bc1bcc9abdfd">https://cad.onshape.com/documents/0ea61102b356df2772bde28d/w/cb32f3078e2b71157fe7bb69/e/784d895a4959bc1bcc9abdfd</a></p>
+<p><a href="https://cad.onshape.com/documents/d5352011f2eb4d472bad1a99/w/16416a3fd92438615ea01d9b/e/a6e6c455b2ff64887770adeb">https://cad.onshape.com/documents/d5352011f2eb4d472bad1a99/w/16416a3fd92438615ea01d9b/e/a6e6c455b2ff64887770adeb</a></p>
+<p><a href="https://cad.onshape.com/documents/45b394b19e350b32b49b4db2/w/11ef3f629666e58bb598a55a/e/a920661b4dbaffa59594c00b">https://cad.onshape.com/documents/45b394b19e350b32b49b4db2/w/11ef3f629666e58bb598a55a/e/a920661b4dbaffa59594c00b</a></p>
+<p><a href="https://cad.onshape.com/documents/aa9c8d15172d682c8d4e95db/w/a5cd4db51c1dadcda042cb16/e/e56c0d5f6be4dd2081adf28b">https://cad.onshape.com/documents/aa9c8d15172d682c8d4e95db/w/a5cd4db51c1dadcda042cb16/e/e56c0d5f6be4dd2081adf28b</a></p>
+<p><a href="https://cad.onshape.com/documents/183c09185134c08765fbbd22/w/f67a5bce63aae5176ca91a88/e/8aa2564b460b66be1dc7f7b7">https://cad.onshape.com/documents/183c09185134c08765fbbd22/w/f67a5bce63aae5176ca91a88/e/8aa2564b460b66be1dc7f7b7</a></p>
+<p><a href="https://cad.onshape.com/documents/028675840837dd21cdb28b31/w/26c0f89cb9d6951b0064b601/e/b86c1a19518e8282003a066a">https://cad.onshape.com/documents/028675840837dd21cdb28b31/w/26c0f89cb9d6951b0064b601/e/b86c1a19518e8282003a066a</a></p>
+<p><a href="https://cad.onshape.com/documents/43f9e1ee9c3b351d2b0fc7f0/w/91327c50db17643d64696a6e/e/b86fdf100d981b8763a27d01">https://cad.onshape.com/documents/43f9e1ee9c3b351d2b0fc7f0/w/91327c50db17643d64696a6e/e/b86fdf100d981b8763a27d01</a></p>
+<p><a href="https://cad.onshape.com/documents/9a8b178bda398dd223e36f15/w/eb06206fe47cef5bc6579dea/e/786a8bbb39b6ca08c3e10e7c">https://cad.onshape.com/documents/9a8b178bda398dd223e36f15/w/eb06206fe47cef5bc6579dea/e/786a8bbb39b6ca08c3e10e7c</a></p>
+<p><a href="https://cad.onshape.com/documents/028675840837dd21cdb28b31/w/26c0f89cb9d6951b0064b601/e/b86c1a19518e8282003a066a">https://cad.onshape.com/documents/028675840837dd21cdb28b31/w/26c0f89cb9d6951b0064b601/e/b86c1a19518e8282003a066a</a></p>
+<p><a href="https://cad.onshape.com/documents/7826b575b6562b95a675f1d3/w/d1667f04d906bc88c1dc5b61/e/178d08ee1c24e84359563c04">https://cad.onshape.com/documents/7826b575b6562b95a675f1d3/w/d1667f04d906bc88c1dc5b61/e/178d08ee1c24e84359563c04</a></p>
+<p><a href="https://cad.onshape.com/documents/3fcb9e1fca6115832d910f0e/w/04e168f5b09e7b8b9b2aef88/e/a4df2a98237823170eb10647">https://cad.onshape.com/documents/3fcb9e1fca6115832d910f0e/w/04e168f5b09e7b8b9b2aef88/e/a4df2a98237823170eb10647</a></p>
+<p><a href="https://cad.onshape.com/documents/5a02c7dc4ab1d82e5d353431/w/3d74ed62298cdcf2f6d798bc/e/76732df4c51c5d25582efbac">https://cad.onshape.com/documents/5a02c7dc4ab1d82e5d353431/w/3d74ed62298cdcf2f6d798bc/e/76732df4c51c5d25582efbac</a></p>
+<p><a href="https://cad.onshape.com/documents/a2ccbc2809b7b7cd8a61bde2/w/fd6939db49c1c1c2d7130df1/e/9a738bfbc3dddd4055c5b40e">https://cad.onshape.com/documents/a2ccbc2809b7b7cd8a61bde2/w/fd6939db49c1c1c2d7130df1/e/9a738bfbc3dddd4055c5b40e</a></p>
+<p><a href="https://cad.onshape.com/documents/e5afe26c849fd6b6237ec460/w/fa07bea457dd88a462f9638b/e/e5d6d639f148e512f3a7e09e">https://cad.onshape.com/documents/e5afe26c849fd6b6237ec460/w/fa07bea457dd88a462f9638b/e/e5d6d639f148e512f3a7e09e</a></p>
+<p><a href="https://cad.onshape.com/documents/f7dfe9184b7b26c333a3981a/w/cd9b2a376624485b93dffb93/e/32786477bfb1f58a8326bd4f">https://cad.onshape.com/documents/f7dfe9184b7b26c333a3981a/w/cd9b2a376624485b93dffb93/e/32786477bfb1f58a8326bd4f</a></p>
+<p><a href="https://cad.onshape.com/documents/2a23b60a121f25d9fc8564e0/w/2e8fe5943640ba6aa0d6c1d0/e/ac04c9d390555a60d1f690aa">https://cad.onshape.com/documents/2a23b60a121f25d9fc8564e0/w/2e8fe5943640ba6aa0d6c1d0/e/ac04c9d390555a60d1f690aa</a></p>
+<p><a href="https://cad.onshape.com/documents/3e118e1cbf6795df9673693d/w/9a3dc00e8007cefeae6ec20b/e/7064ec6253a01c11dac25fd5">https://cad.onshape.com/documents/3e118e1cbf6795df9673693d/w/9a3dc00e8007cefeae6ec20b/e/7064ec6253a01c11dac25fd5</a></p>
+<p><a href="https://cad.onshape.com/documents/6e9b8398351e0f4edbc62cab/w/3f5cc28c41c518440af711e1/e/319a13ffe2cb574e69f69e24">https://cad.onshape.com/documents/6e9b8398351e0f4edbc62cab/w/3f5cc28c41c518440af711e1/e/319a13ffe2cb574e69f69e24</a></p>
+<p><a href="https://cad.onshape.com/documents/cde0b361c8be614a16ebaf34/w/29917c209b207a4862612930/e/407626f990d877707e25bd20">https://cad.onshape.com/documents/cde0b361c8be614a16ebaf34/w/29917c209b207a4862612930/e/407626f990d877707e25bd20</a></p>
+<p><a href="https://cad.onshape.com/documents/fe8b090d2f7dd3523fbaa659/w/ce16bca4693f4a8d3773e84d/e/a9dc6cfcca90f18735041004">https://cad.onshape.com/documents/fe8b090d2f7dd3523fbaa659/w/ce16bca4693f4a8d3773e84d/e/a9dc6cfcca90f18735041004</a></p>
+<p><a href="https://cad.onshape.com/documents/61f9c0ea9bc63d66b4594faa/w/684f61856a28ba795961ba3f/e/c6c416ddb1f3000638323cd3">https://cad.onshape.com/documents/61f9c0ea9bc63d66b4594faa/w/684f61856a28ba795961ba3f/e/c6c416ddb1f3000638323cd3</a></p>
+<p><a href="https://cad.onshape.com/documents/651f814d111bb466f10f6814/w/21f0c1ff877c43462f92155c/e/0ce21b7d06c14ff1072a39e8">https://cad.onshape.com/documents/651f814d111bb466f10f6814/w/21f0c1ff877c43462f92155c/e/0ce21b7d06c14ff1072a39e8</a></p>
+<p><a href="https://cad.onshape.com/documents/96dd4e8b897db582fc6ec9a3/w/b937cdb2b45009b5ae3960d1/e/249417cb7690c942bba5c062">https://cad.onshape.com/documents/96dd4e8b897db582fc6ec9a3/w/b937cdb2b45009b5ae3960d1/e/249417cb7690c942bba5c062</a></p>
+<p><a href="https://cad.onshape.com/documents/994961fd3bb187be244ae42f/w/13a15a305c3a77ecf4ba9a1f/e/7bc09099eaa9f5be8f66fed5">https://cad.onshape.com/documents/994961fd3bb187be244ae42f/w/13a15a305c3a77ecf4ba9a1f/e/7bc09099eaa9f5be8f66fed5</a></p>
+<p><a href="https://cad.onshape.com/documents/4e860c758f316fc4745efdef/w/c46ee497ee7177f8cc3b4a99/e/eb90d8ca72897ed9ea9214b6">https://cad.onshape.com/documents/4e860c758f316fc4745efdef/w/c46ee497ee7177f8cc3b4a99/e/eb90d8ca72897ed9ea9214b6</a></p>
+<p><a href="https://cad.onshape.com/documents/713c2ff86ac0b41a3bfbc87b/w/0adf8a106e473157a715619d/e/c8393551755727e66ef55396">https://cad.onshape.com/documents/713c2ff86ac0b41a3bfbc87b/w/0adf8a106e473157a715619d/e/c8393551755727e66ef55396</a></p>
+<p><a href="https://cad.onshape.com/documents/8021983d01f007f157805db5/w/19459bf3cf226a974c4fa75e/e/f59665830864c40ba3f01884">https://cad.onshape.com/documents/8021983d01f007f157805db5/w/19459bf3cf226a974c4fa75e/e/f59665830864c40ba3f01884</a></p>
+<p>第二階段:零件組裝(由於Onshape城市遇到技術上的失誤所以改用splidworks製作)</p>
+<p><iframe allowfullscreen="allowfullscreen" height="315" src="//www.youtube.com/embed/PIDgZwBCCa8" width="560"></iframe></p>
+<br />40923247 << <a href='40923247.html'>Previous</a> <a href='40923216.html'>Next</a> >> 40923216</div>
+        
+    <!-- footer -->
+      <div class="container">
+        <div class="row pt-3 mx-auto">
+            <p>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="icon-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank" >Colorlib</a>
+            <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+            </p>
+        </div>
+      </div>
+    <!-- for footer -->
+    
+        </div> <!-- for site wrap -->
+            <!-- <script src="../cmsimde/static/chimper/js/jquery-3.3.1.min.js"></script> -->
+            <script src="../cmsimde/static/chimper/js/jquery-migrate-3.0.1.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery-ui.js"></script>
+            <script src="../cmsimde/static/chimper/js/popper.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/owl.carousel.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.stellar.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.countdown.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/jquery.magnific-popup.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/bootstrap-datepicker.min.js"></script>
+            <script src="../cmsimde/static/chimper/js/aos.js"></script>
+            <!--
+            <script src="../cmsimde/static/chimper/js/typed.js"></script>
+                    <script>
+                    var typed = new Typed('.typed-words', {
+                    strings: ["Web Apps"," WordPress"," Mobile Apps"],
+                    typeSpeed: 80,
+                    backSpeed: 80,
+                    backDelay: 4000,
+                    startDelay: 1000,
+                    loop: true,
+                    showCursor: true
+                    });
+                    </script>
+            -->
+            <script src="../cmsimde/static/chimper/js/main.js"></script>
+        
+<!-- 啟用 LaTeX equations 編輯 -->
+  <!-- <script>
+  MathJax = {
+    tex: {inlineMath: [['$', '$'], ['\(', '\)']]}
+  };
+  </script>
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"></script>-->
+    </body></html>
+        

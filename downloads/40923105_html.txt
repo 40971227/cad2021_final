@@ -1,0 +1,92 @@
+<h3>40923105</h3>
+<p>W11查驗</p>
+<p><a href="https://drive.google.com/drive/folders/1xdypJRyOPaISfs9Qd627l43GUHzN4SIc?usp=sharing">零件圖</a></p>
+<p><iframe width="900" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/VcQZi8GHe0o" title="YouTube video player"></iframe></p>
+<p>Wink_W11</p>
+<script>// <![CDATA[
+var winkVideoData2 = {
+  dataVersion: 1,
+  frameRate: 10,
+  buttonFrameLength: 5,
+  buttonFrameOffset: 2,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1060" height="562" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData2">
+<source src="https://40923105.github.io/cad2021_hw/downloads/w11.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>多連桿影片</p>
+<p><iframe width="900" height="506" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/qZgFBbTx-hg" title="YouTube video player"></iframe></p>
+<p>Wink_多連桿作動</p>
+<p></p>
+<p>
+<script>// <![CDATA[
+var winkVideoData = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+</p>
+<div class="winkVideoContainerClass"><video width="1060" height="562" class="winkVideoClass" data-dirname="/static" data-varname="winkVideoData">
+<source src="https://40923105.github.io/cad2021_hw/downloads/0103.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
+<p>期末考試</p>
+<p><strong><span style="background-color: #00ffff;">第一階段</span></strong></p>
+<p><a href="https://drive.google.com/file/d/1HL8rQbFndNsMss7Oue4b9-ZkEv8cqgBU/view?usp=sharing">40923105_final.zip</a></p>
+<p><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/%E9%9B%B6%E4%BB%B6%E5%9C%96.png" width="781"></p>
+<p><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/%E7%B5%84%E5%90%88%E4%BB%B61.png" width="781"></p>
+<p><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/%E7%B5%84%E5%90%88%E4%BB%B62.png" width="781"></p>
+<p><span style="background-color: #00ffff;">第二階段</span><br><span></span></p>
+<p><span><a href="https://drive.google.com/file/d/1fNS7Zys3ySpB1duICn0GeOGkgumvuCRo/view?usp=sharing">40923105_final_stage2.zip</a></span></p>
+<p><span><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/%E7%B5%84%E5%90%88%E4%BB%B62_1.png" width="781"></span></p>
+<p><span><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/%E7%B5%84%E5%90%88%E4%BB%B62-2.png" width="781"></span></p>
+<p><span style="background-color: #00ffff;">第三階段</span></p>
+<p><a href="https://drive.google.com/file/d/1kznhzjKpzKqGU_pQuMxeSeIwdipvCK-h/view?usp=sharing">40923105_final_ttt.zip</a></p>
+<p><img caption="false" height="417" src="https://40923105.github.io/cad2021_hw/images/COPP.png" width="781"></p>
+<p></p>
+<p></p>
+<script>// <![CDATA[
+var winkVideoData3 = {
+  dataVersion: 1,
+  frameRate: 20,
+  buttonFrameLength: 10,
+  buttonFrameOffset: 5,
+  frameStops: {
+  },
+};
+// ]]></script>
+<div class="winkVideoContainerClass"><video width="1060" height="562" class="winkVideoClass" data-dirname="./../cmsimde/static" data-varname="winkVideoData3">
+<source src="https://40923105.github.io/cad2021_hw/downloads/0110.mp4" type="video/mp4" /></video>
+<div class="winkVideoOverlayClass"></div>
+<div class="winkVideoControlBarClass"><button class="winkVideoControlBarPlayButtonClass"></button> <button class="winkVideoControlBarPauseButtonClass"></button>
+<div class="winkVideoControlBarProgressLeftClass"></div>
+<div class="winkVideoControlBarProgressEmptyMiddleClass"></div>
+<div class="winkVideoControlBarProgressRightClass"></div>
+<div class="winkVideoControlBarProgressFilledMiddleClass"></div>
+<div class="winkVideoControlBarProgressThumbClass"></div>
+</div>
+<div class="winkVideoPlayOverlayClass"></div>
+</div>
